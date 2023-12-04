@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html" ; charset="utf-8" />
+	<title>Joyeuses pâques avec Choco & Co</title>
+	<link href="style.css" rel="stylesheet" type="text/css"/>
+	<!-- A faire plus tard ! <link rel="stylesheet" type="text/css" href="../styles/styles.css"> -->
+</head>
+
+<body>
+
+	<!--formulaire de saisie d'une commande de chocolats Choco & Co -->
+	<h1>Joyeuses Pâques avec Choco & Co</h1>
+	<p>Commandez vos chocolats en toute décontraction et profitez de nos promotions de Pâques.</p>
+	<form method="post" action="recap.php">
+		<fieldset>
+			<legend>Vos informations</legend>
+			<h2>Adresse de livraison</h2>
+			<p>
+				<label for "nom">Nom :</label>
+				<input type="text" name="nom" id="nom" size="30" maxlength="40" placeholder="Votre nom"
+					required="true" />
+
+				<label for "prenom">Prénom :</label>
+				<input type="text" name="prenom" id="prenom" size="30" maxlength="40" placeholder="Votre prénom"
+					required="true" />
+			</p>
+
+			<p>
+				<label for "adresse">Adresse :</label>
+				<input type="text" name="adresse" id="adresse" size="80" maxlength="100"
+					placeholder="numéro et nom de la rue" required="true" />
+			</p>
+
+			<p>
+				<label for "complement">Complément d'adresse :</label>
+				<input type="text" name="complement" id="adresse" size="80" maxlength="100" value="" />
+			</p>
+
+			<p>
+				<label for "ville">Ville :</label>
+				<input type="text" name="ville" id="ville" size="30" maxlength="40" placeholder="ville"
+					required="true" />
+
+				<label for "cp">Code postal :</label>
+				<input type="text" name="cp" id="cp" size="5" maxlength="5" placeholder="Code postal" required="true" />
+			</p>
+
+			<label for "cadeau">Emballage cadeau gratuit : </label>
+			<input type="checkbox" name="cadeau">
+		</fieldset>
+
+		<fieldset>
+			<legend>Vos coordonnées (pour contact)</legend>
+
+			<label for "tel">Téléphone :</label>
+			<input type="tel" name="tel" id="tel" size="10" maxlength="10" /></p>
+
+			<label for "email">Email :</label>
+			<input type="email" name="mail" placeholder="votrenom@exemple.com" id="mail" size="30" maxlength="40" /></p>
+		</fieldset>
+
+		<fieldset>
+			<legend>Votre commande</legend>
+
+			<fieldset>
+				<legend>Oeufs en chocolat</legend>
+
+				<table>
+					<tr>
+						<th>Désignation</th>
+						<th>Quantité</th>
+						<th>Prix unitaire TTC</th>
+					</tr>
+					<tr>
+						<td><label for "oeufs-petit">Petit paquet (150 g)</label></td>
+						<td><input type="number" name="oeuf_petit" min="0" max="99" id="oeuf_petit" value="0"
+								onfocus="this.value=''"></td>
+						<td>13,5 €</td>
+					</tr>
+					<tr>
+						<td><label for "oeufs_moyen">Paquet moyen (300 g)</label></td>
+						<td><input type="number" name="oeuf_moyen" min="0" max="99" id="oeuf_moyen" value="0"
+								onfocus="this.value=''"></td>
+						<td>27 €</td>
+					</tr>
+					<tr>
+						<td><label for "oeufs_grand">Grand paquet (500 g)</label></td>
+						<td><input type="number" name="oeuf_grand" min="0" max="99" id="oeuf_grand" value="0"
+								onfocus="this.value=''"></td>
+						<td>45 €</td>
+					</tr>
+				</table>
+
+				<input type="hidden" name="px_oeufs_petit" value="13.5">
+				<input type="hidden" name="px_oeufs_moyen" value="27">
+				<input type="hidden" name="px_oeufs_grand" value="45">
+			</fieldset>
+
+			<fieldset>
+				<legend>Animaux en chocolat</legend>
+
+				<table>
+					<tr>
+						<th>Désignation</label></th>
+						<th>Quantité</th>
+						<th>Prix unitaire TTC</th>
+					</tr>
+					<tr>
+						<td><label for "poule">Poule (100 g)</label></td>
+						<td><input type="number" name="poule" id="poule" min="0" max="99" value="0"
+								onfocus="this.value=''"></td>
+						<td>11,99 €</td>
+					</tr>
+					<tr>
+						<td><label for "lapin">Lapin (90 g)</label></td>
+						<td><input type="number" name="lapin" id="lapin" min="0" max="99" value="0"
+								onfocus="this.value=''"></td>
+						<td>10,99 €</td>
+					</tr>
+					<tr>
+						<td><label for "canard">Canard (120 g)</label></td>
+						<td><input type="number" name="canard" id="canard" min="0" max="99" value="0"
+								onfocus="this.value=''"></td>
+						<td>13,99 €</td>
+					</tr>
+				</table>
+
+				<input type="hidden" name="px_poule" value="11.99">
+				<input type="hidden" name="px_lapin" value="10.99">
+				<input type="hidden" name="px_canard" value="13.99">
+			</fieldset>
+
+			<fieldset>
+				<legend>Assortiment personnalisé</legend>
+				<p>Assortiment de 300 g de fritures en chocolats. Prix unitaire : 24 €</p>
+
+				<p><em>Exclusivité Choco & CO !</em> Choisissez les figures désirées dans la liste ci-dessous.</p>
+
+				<table>
+					<tr>
+						<td>Saumon</td>
+						<td><input type="checkbox" name="figures[]" value="saumon"></td>
+					</tr>
+					<tr>
+						<td>Coquillage</td>
+						<td><input type="checkbox" name="figures[]" value="coquillage"></td>
+					</tr>
+					<tr>
+						<td>Masque</td>
+						<td><input type="checkbox" name="figures[]" value="masque"></td>
+					</tr>
+					<tr>
+						<td>Tulipe</td>
+						<td><input type="checkbox" name="figures[]" value="tulipe"></td>
+					</tr>
+					<tr>
+						<td>Crevette</td>
+						<td><input type="checkbox" name="figures[]" value="crevette"></td>
+					</tr>
+					<tr>
+						<td>Epée</td>
+						<td><input type="checkbox" name="figures[]" value="epee"></td>
+					</tr>
+					<tr>
+						<td>Requin</td>
+						<td><input type="checkbox" name="figures[]" value="requin"></td>
+					</tr>
+				</table>
+
+				<p>
+					<label for "qte_assort">Quantité : </label><input type="number" name="qte_assort" min="0" max="99"
+						id="ste_assort" value="0" onfocus="this.value=''">
+				</p>
+
+				<input type="hidden" name="px_assort" value="24">
+
+			</fieldset>
+
+		</fieldset>
+
+		<input type="reset" value="Effacer tout"><input type="submit" value="Commander">
+
+	</form>
+
+</body>
+
+</html>

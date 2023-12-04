@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<packages>
+
+	<package
+		id="Tscc"
+		name="Tscc : Codec"
+		revision="1.1"
+		reboot="false"
+		priority="5"
+		category='tscc'
+		lnk='tscc'>
+	
+		<variable name="PROGRAMFILES" value="%PROGRAMFILES%" architecture="x86"/>
+		<variable name="PROGRAMFILES" value="%PROGRAMFILES(x86)%" architecture="x64"/>
+
+		<variable name="SYSTEMROOT" value="%SystemRoot%" architecture="x64"/>
+		<variable name="SYSTEMROOT" value="%SystemRoot%" architecture="x86"/>
+
+		<variable name="AllUsersPrograms" value="%ALLUSERSPROFILE%\Menu Démarrer\Programmes" os="5\.\d\.\d{4}"/>
+        	<variable name="AllUsersPrograms" value="%ALLB  USERSPROFILE%\Microsoft\Windows\Start Menu\Programs" os="6\.\d\.\d{4}"/>
+        	<variable name="AllUsersDesktop" value="%SystemDrive%\Documents and Settings\All Users\Bureau" os="5\.\d\.\d{4}"/>
+        	<variable name="AllUsersDesktop" value="%SystemDrive%\Users\Public\Desktop" os="6\.\d\.\d{4}"/>
+
+		<variable name="COMSPEC" value="%SystemRoot%\System32\cmd.exe" architecture="x86"/>
+		<variable name="COMSPEC" value="%SystemRoot%\SysWOW64\cmd.exe" architecture="x64"/>
+
+		<check type="file" condition="exists" path="%SYSTEMROOT%\SysWOW64\tsccvid.dll" />
+
+		<install cmd="%Z%\packages\tscc\tscc.exe /S" >
+			<exit code="1605" reboot="false"/>
+		</install>
+		
+		<remove cmd='%COMSPEC% /C %USERPROFILE%\Bureau\Pauline\tscc\tscc.bat' />
+		
+	</package>	 
+</packages>
+
+
+  

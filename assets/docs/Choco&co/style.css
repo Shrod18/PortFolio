@@ -1,0 +1,94 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+    padding: 8px;
+    background-color: #62688683;
+    color: #ffffff;
+    font-family: 'garamond';
+    background-image: radial-gradient(at center bottom, rgba(21, 53, 33, 0.945) 20%, rgb(70, 43, 18) 100%);
+    background-blend-mode: color;
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+    font-size: large;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Outfit';
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+
+h2,
+h3 {
+    text-align: center;
+    font-family: 'outfit';
+}
+
+p {
+    text-align: justify;
+    text-align: center;
+}
+
+input[type=submit],
+[type=reset] {
+    background-color: #181818a9;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: x-large;
+    cursor: pointer;
+    padding: 14px 20px;
+    margin: 8px 8px;
+    transition: 0.25s;
+}
+
+input[type=submit]:hover,
+input[type=reset]:hover {
+    transform: scale(1.1);
+}
+
+input[type=checkbox]:checked+td {
+    color: rgb(255, 87, 87);
+}
+
+
+input[type=text],
+input[type=email],
+input[type=tel] {
+    width: 20%;
+    padding: 5px;
+    border: 1px solid rgb(39, 38, 38);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    font-size: large;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+#ste_assort {
+    width: 5%;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid rgb(39, 38, 38);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    font-size: large;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+hr {
+    width: 100%;
+}
