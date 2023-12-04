@@ -104,3 +104,9 @@
     content: "\f0e0";
     color: #fff;
 }
+
+iframe {
+    border-radius: 10px;
+    width:750px;
+    height: 1100px;
+}
