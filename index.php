@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="./style/dropdown.css">
     <link rel="stylesheet" href="./style/watch.css">
     <link rel="stylesheet" href="./style/contact.css">
+    <link rel="stylesheet" href="./style/fluxrss.css">
     <link rel="stylesheet" href="./style/footer.css">
     <link rel="stylesheet" href="./style/responsive.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
@@ -622,7 +623,16 @@
             </div>
         </div>
         <div class="content">
-            <iframe src="https://www.pearltrees.com/benjamin_sevault?embed=2&d=2022010396" style="border:0px;"></iframe>
+            <?php
+            include_once('application/rss.php');
+            $feedlist = parseFlux('https://codepen.io/spark/feed/');
+            //$feedlist = parseFlux('https://openai.com/blog/rss.xml');
+            echo displayFlux($feedlist, 5, "OpenAI");
+            // https://www.androidauthority.com/android-development/feed/
+            $feedlist = parseFlux('https://www.01net.com/tests/feed/');
+            echo displayFlux($feedlist, 10, "Android");
+            ?> 
+
         </div>
     </section>
 

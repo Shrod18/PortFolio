@@ -1,0 +1,42 @@
+body {
+    font-family: verdana;
+    font-size: 12px;
+}
+
+.bloc{
+    width:24%;
+    padding:.5%;
+    margin: 0 auto;
+}
+.bloc-head {
+    font-size:18px;
+    font-weight:bold;
+    text-align:left;
+    background-color:#0175ae;
+    color:#ffffff;
+    padding:10px;
+    border-radius: 5px 5px 0 0;
+    text-shadow: 2px 2px #000;
+}
+.bloc-title {
+    text-align:left;
+    padding:5px;
+    border:1px solid #e1e1e1;
+    border-radius: 0 0 5px 5px;
+    font-size: 0.9em;
+    color: #0175ae;
+}
+.bloc-title-link {
+    padding: 0px 0;
+}
+hr {
+    border: 1px solid #e1e1e1;
+}
+a {
+    color: #0175ae;
+    text-decoration: none;
+}
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
