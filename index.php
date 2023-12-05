@@ -94,7 +94,8 @@
                 <h3>A propos de moi</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Je m'appelle Pauline BERTRAND et je suis actuellement un BTS SIO option SLAM (Solutions Logicielles
+                    Je m'appelle Pauline BERTRAND, j'ai 19 ans et je suis actuellement un BTS SIO option SLAM (Solutions
+                    Logicielles
                     et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
                 </p>
                 <h3>Parcours scolaire</h3>
@@ -226,6 +227,7 @@
                 <button class="acc-btn">Stage 1ère année - Groupe OGEC - Juin 2023</button>
                 <div class="acc-content">
                     <p>
+                        &nbsp;&nbsp;&nbsp;&nbsp;
                         L’OGEC (Organisme de Gestion de l’Enseignement Catholique) est une association loi 1901,
                         regroupant des personnes bénévoles qui, lors de l’assemblée générale peuvent être élus et
                         devenir membres du Conseil d’Administration.
@@ -327,8 +329,10 @@
                     <h3>Projets</h3>
                     <button class="acc-btn">AP2 - Netto</button>
                     <div class="acc-content">
-                        <p><u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
-                            Intermarché, enseigne française de grande distribution du groupe Les mousquetaires, a depuis
+                        <p>
+                            <u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Intermarché, enseigne française de grande distribution du groupe Les
+                            mousquetaires, a depuis
                             quelques années élargi son domaine d'activités, en proposant à ses clients la possibilité de
                             louer des véhicules (utilitaires ou véhicules de tourisme)
                             Madame B., directrice du magasin Netto d'Aubusson, constate une difficulté pour gérer les
@@ -345,6 +349,7 @@
                                 onclick="window.open('https://github.com/Shrod18/Netto');">
                                 Lien GitHub du projet
                             </a>
+
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
@@ -397,8 +402,10 @@
 
                     <button class="acc-btn">AP3 - KSAV</button>
                     <div class="acc-content">
-                        <p><u>Ce projet s'inscrit dans le contexte suivant :</u><br><br>
-                            Le Groupe Salaün est une entreprise familiale spécialisée dans les métiers du tourisme. Il
+                        <p>
+                            <u>Ce projet s'inscrit dans le contexte suivant :</u><br><br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Le Groupe Salaün est une entreprise familiale spécialisée dans les
+                            métiers du tourisme. Il
                             est notamment devenu l’un des plus importants Touropérateurs français avec plus de 500
                             collaborateurs et un réseau de plus de 160 points de vente en France et en Belgique.
                         </p>
@@ -414,10 +421,10 @@
                             Groupe ou avec d’autres Tour Opérateur. </p>
                         <p class="date"> Du 07/09/2023 au 14/12/2023.</p>
                         <p>
-                        <a href="https://github.com/Shrod18/KSAV2" target="_blank"
-                            onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                            Lien GitHub du projet
-                        </a>
+                            <a href="https://github.com/Shrod18/KSAV2" target="_blank"
+                                onclick="window.open('https://github.com/Shrod18/KSAV2');">
+                                Lien GitHub du projet
+                            </a>
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
@@ -462,7 +469,8 @@
 
                     <button class="acc-btn">AP4 - </button>
                     <div class="acc-content">
-                        <p><u></u><br><br>
+                        <p>
+                            <u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
 
                         </p>
                         <p>
@@ -508,7 +516,10 @@
                     </div>
                     <button class="acc-btn">TC4_Réseau : Mission GLPI</button>
                     <div class="acc-content">
-                        <p>SAMSIC est une entreprise spécialisée dans le service aux entreprises. Elle intervient dans
+                        <p>
+                            <u>Ce TP s'inscrit dans le contexte suivant :<br><br></u>
+                            &nbsp;&nbsp;&nbsp;&nbsp;SAMSIC est une entreprise spécialisée dans le service aux
+                            entreprises. Elle intervient dans
                             de
                             nombreux domaines d’activités : Aéroportuaire, BTP, Commerce et distribution,
                             hôtellerierestauration, industrie, etc
@@ -575,7 +586,9 @@
                     <button class="acc-btn">TC5_Dev : Choco&co</button>
                     <div class="acc-content">
                         <p>
-                            M. Lepoulain, directeur de la chocolaterie artisanale Choco & Co vend des œufs, des poules
+                            <u>Ce TP s'inscrit dans le contexte suivant :<br><br></u>
+                            &nbsp;&nbsp;&nbsp;&nbsp;M. Lepoulain, directeur de la chocolaterie artisanale Choco & Co
+                            vend des œufs, des poules
                             et des
                             lapins qui sont les objets chocolatés qui ont le plus de succès, mais il vend aussi toutes
                             sortes d’objets ou
@@ -686,7 +699,9 @@
         <div class="heading">
             <h2>Veille technologique</h2>
             <div class="contentBx">
-                <p>La veille technologique consiste à se tenir informé des évolutions techniques et des innovations dans
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;La veille technologique consiste à se tenir informé des évolutions
+                    techniques et des innovations dans
                     un secteur d’activité donné. Cela comprend notamment la surveillance, la collecte, le partage et la
                     diffusion d’information permettant d’anticiper ou d'avoir connaissance des changements en matière de
                     recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts,
