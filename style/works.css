@@ -134,12 +134,12 @@ a#syntheseE4 {
     letter-spacing: 1.2px; 
 }
 
-.missions ul {    
+.missions-comp .missions ul {    
     margin: auto;
     max-width: 90%;
 }
 
-.comp ul {
+.missions-comp .comp ul {
     margin: auto;
     max-width: 80%;
 }
@@ -156,4 +156,8 @@ a#syntheseE4 {
     position: absolute;
     margin-left: 8px;
     left: 0;
+}
+
+.missions-comp > div {
+    width: 50%;
 }

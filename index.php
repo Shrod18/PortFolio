@@ -226,40 +226,30 @@
                 <button class="acc-btn">Stage 1ère année - Groupe OGEC - Juin 2023</button>
                 <div class="acc-content">
                     <p>
-                        &nbsp;&nbsp;&nbsp;&nbsp;
-                        La société Centre Formation Recrutement (CFR) propose des services de formation pour adulte
-                        de courte durée (langues, bureautique, design... ) à destination d'employeurs ou de
-                        particuliers. Lors de sa création en 2016, un <a href="./assets/docs/cfr/screen_old_cfr.pdf"
-                            target="_blank">site web</a> a été déployé afin de permettre la prise de contact de
-                        potentiels clients avec l'entreprise. Le site n'ayant pas ou peu été maintenu depuis, la
-                        direction a souhaité moderniser ce site vitrine : <a href="https://www.groupecfr.com"
-                            target="_blank">groupecfr.com</a>. J'ai donc participé au développement du nouveau site
-                        vitrine, développé en HTML/CSS/JavaScript et PHP, au sein d'une équipe de 4 stagiaires.
+                        L’OGEC (Organisme de Gestion de l’Enseignement Catholique) est une association loi 1901,
+                        regroupant des personnes bénévoles qui, lors de l’assemblée générale peuvent être élus et
+                        devenir membres du Conseil d’Administration.
+                        Ce groupe collabore avec l'ensemble scolaire Saint Etienne situé a Cahors, afin de valoriser
+                        l’établissement tout en apportant un bien être à chacun : élèves, personnels, enseignants,
+                        parents. Cela se traduit par des achats de matériels, des aménagements de locaux, des
+                        constructions et le calcul à sa plus juste valeur des frais de scolarité, de restauration et
+                        d’internat.
                     </p>
                     <div class="missions-comp">
                         <div class="missions">
                             <h4>Missions</h4>
+                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs d'une centaines de postes.</p>
                             <ul>
-                                <li>Veille concurrentielle</li>
-                                <li>Création d'une maquette de la page formation du site</li>
-                                <li>Conception et développement d'un nouveau site web</li>
-                                <li><span style="text-decoration: underline; font-weight: 700;">Front-end :</span>
-                                    HTML / CSS / JS <br> <span
-                                        style="text-decoration: underline; font-weight: 700;">Back-end :</span> PHP
-                                    / MySQL et phpMyAdmin pour la gestion de la base de données </li>
-                                <li>Design responsive pour la navigation mobile</li>
-                                <li>Git & GitHub pour le travail collaboratif</li>
-                                <li>Mise en ligne du site sur O2Switch via l'interface Cpanel</li>
-                                <li>Rédaction d'un document technique</li>
-                                <li>Optimisation du référencement "naturel" du nouveau site web</li>
+                                <li>Utiliser un exécutable ainsi qu'un fichier d'installation .msi pour déployer ce service.</li>
+                                <li>Utiliser le packages.xml WPKG, un programme automatisé de déploiement, de mise à niveau et de suppression de logiciels pour Windows. En d'autres mots, c'est une liste de tous les paquets et scripts pouvant être déployés ou exécuter sur les stations de travail.</li>
                             </ul>
                         </div>
                         <div class="comp">
                             <h4>Compétences</h4>
                             <ul>
                                 <li>Mettre à disposition des utilisateurs un service informatique</li>
-                                <li>▸ Réaliser les tests d’intégration et d’acceptation d’un service</li>
-                                <li>▸ Déployer un service</li>
+                                <li>Réaliser les tests d’intégration et d’acceptation d’un service</li>
+                                <li>Déployer un service</li>
                             </ul>
                         </div>
                     </div>
@@ -267,21 +257,13 @@
                     <div class="dropdown">
                         <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                         <div class="dropdown-content">
-                            <a href="assets/docs/cfr/analyse_concurrentielle.pdf" target="_blank">
+                            <a href="assets\docs\Stage XML\tscc.xml" target="_blank">
                                 <i class="far fa-file-pdf-o"></i>
-                                Veille concurrentielle
+                                Fichier .xml
                             </a>
-                            <a href="assets/docs/cfr/maquette_formation.pdf" target="_blank">
+                            <a href="assets\docs\Stage XML\tscc.txt" target="_blank">
                                 <i class="far fa-file-pdf-o"></i>
-                                Maquette et charte graphique
-                            </a>
-                            <a href="assets/docs/cfr/CFR_Worksheet.pdf" target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Document de travail
-                            </a>
-                            <a href="assets/docs/cfr/DocTechnique.pdf" target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Documentation technique
+                                Fichier .bat
                             </a>
                         </div>
                     </div>
@@ -440,11 +422,6 @@
                                     <li>Rapport</li>
                                 </ul>
                             </div>
-                            <div class="missions">
-                                <br><br><br>
-                                <ul>
-                                </ul>
-                            </div>
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
@@ -590,9 +567,12 @@
                     <button class="acc-btn">TC5_Dev : Choco&co</button>
                     <div class="acc-content">
                         <p>
-                            M. Lepoulain, directeur de la chocolaterie artisanale Choco & Co vend des œufs, des poules et des
-                            lapins qui sont les objets chocolatés qui ont le plus de succès, mais il vend aussi toutes sortes d’objets ou
-                            d’animaux en chocolat. M. Lepoulain décide de lancer une campagne de promotion spéciale sur le web
+                            M. Lepoulain, directeur de la chocolaterie artisanale Choco & Co vend des œufs, des poules
+                            et des
+                            lapins qui sont les objets chocolatés qui ont le plus de succès, mais il vend aussi toutes
+                            sortes d’objets ou
+                            d’animaux en chocolat. M. Lepoulain décide de lancer une campagne de promotion spéciale sur
+                            le web
                             intitulée « Joyeuses Pâques avec Choco & Co !».
                             Dans le cadre de cette campagne, une sélection de produits Choco & Co seront proposée à la
                             vente à prix réduits sur un site Internet construit pour l’occasion (chocopaques.fr).
@@ -614,11 +594,8 @@
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
-                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation.
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -705,11 +682,6 @@
                     diffusion d’information permettant d’anticiper ou d'avoir connaissance des changements en matière de
                     recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts,
                     innovation de fabrication, etc….</p>
-                <p>Aujourd’hui, la sécurité est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des
-                    acteurs qui l’entourent. Aussi j'ai choisi d'axer ma veille sur le thème de la cybersécurité. </p>
-                <p>Pour réaliser cette veille, j'utilise l'aggrégateur de flux RSS Feedly pour visualiser des articles
-                    autour de différents thèmes (cybersécurité, développement...), puis je sélectionne les articles
-                    pertinents, les trie, et les enregistre grâce à l'outil Pearltrees, visible ci-dessous </p>
             </div>
         </div>
         <div class="content">
@@ -723,10 +695,13 @@
     </section>
 
     <!-- Contact -->
-    <section class="contactForm">
-        <div class="contactInfo">
-            <h3>Contact Info</h3>
-            <div class="flexeur">
+    <section class="contactForm" id="contact">
+        <div class="heading white">
+            <h2>Contactez-moi</h2>
+        </div>
+        <div class="content">
+            <div class="contactInfo">
+                <h3>Contact Info</h3>
                 <div class="contactInfoBx">
                     <div class="box">
                         <div class="icon adress"><i class="far fa-envelope"></i></div>
@@ -743,6 +718,27 @@
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <!-- https://formsubmit.co -->
+            <div class="formBx">
+                <form action="" method="POST">
+                    <input type="hidden" name="_subject" value="Nouveau mail depuis le portfolio">
+                    <input type="hidden" name="_template" value="table">
+                    <label for="prenom">Votre prénom
+                        <input type="text" name="prenom" id="prenom" placeholder="* Champ requis" required>
+                    </label>
+                    <label for="nom">Votre nom
+                        <input type="text" name="nom" id="nom" placeholder="* Champ requis" required>
+                    </label>
+                    <label for="email">Votre adresse e-mail
+                        <input type="email" name="email" id="email" placeholder="* Champ requis" required>
+                    </label>
+                    <label for="message">Votre message
+                        <textarea name="message" id="message" placeholder="* Champ requis" required></textarea>
+                    </label>
+                    <input class="btn" type="submit" value="Envoyer">
+                </form>
             </div>
         </div>
     </section>
