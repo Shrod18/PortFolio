@@ -711,8 +711,10 @@
         <div class="content">
             <?php
             include_once('application/rss.php');
-            $feedlist = parseFlux('https://news.mit.edu/rss/topic/artificial-intelligence2');
-            echo displayFlux($feedlist, 5, "L'avancée de l'Intelligence Artificielle");
+            $feedlist = parseFlux('https://www.kdnuggets.com/feed');
+            echo displayFlux($feedlist, 3, "L'IA dans KDNugget");
+            $feedlist = parseFlux('https://blogs.nvidia.com/feed/');
+            echo displayFlux($feedlist, 3, "Les intelligences artificielles dans NVIDIA");
             ?>
 
         </div>
