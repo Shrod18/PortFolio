@@ -94,26 +94,21 @@
                 <h3>A propos de moi</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Je m'appelle Pauline BERTRAND et je suis actuellement un BTS SIO option SLAM (Solutions Logicielles
-                    et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
+                    Je m'appelle Pauline BERTRAND et je suis actuellement un BTS SIO option SLAM (Solutions Logicielles et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
                 </p>
                 <h3>Parcours scolaire</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée
-                    Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
+                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
                 </p>
                 <h3>Parcours Professionnel</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    J'ai travailler à de nombreuses reprises en entreprise pendant les périodes de vacances scolaires.
-                    Ces 2 mois à l'entreprise Intersport ainsi que les 2 mois à l'entreprise Gémo m'ont permis
-                    d'observer la vie en entreprise et également de m'intégrer dans une équipe.
+                    J'ai travailler à de nombreuses reprises en entreprise pendant les périodes de vacances scolaires. Ces 2 mois à l'entreprise Intersport ainsi que les 2 mois à l'entreprise Gémo m'ont permis d'observer la vie en entreprise et également de m'intégrer dans une équipe.
                 </p>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Etant intéressées depuis de nombreuses années par l'informatique, je souhaite continuer mes études
-                    en Licence Professionnelle afin de me spécialiser.
+                    Etant intéressées depuis de nombreuses années par l'informatique, je souhaite continuer mes études en Licence Professionnelle afin de me spécialiser.
                 </p>
                 <h3>Mes qualités</h3>
                 <p>
@@ -190,10 +185,7 @@
             <div class="contentBx">
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Au cours de ma préparation au BTS SIO option SLAM, j'ai réalisé plusieurs projets lors de stages
-                    en entreprise ou d'ateliers professionnels encadrés par l'équipe pédagogique de mon centre de
-                    formation. Ces réalisations en contexte professionnel ou pédagogique m'ont permis d'acquérir les
-                    blocs de compétences du réferentiel du BTS SIO.
+                    Au cours de ma préparation au BTS SIO option SLAM, j'ai réalisé plusieurs projets lors de stages en entreprise ou d'ateliers professionnels encadrés par l'équipe pédagogique de mon centre de formation. Ces réalisations en contexte professionnel ou pédagogique m'ont permis d'acquérir les blocs de compétences du réferentiel du BTS SIO.
                 </p>
             </div>
             <div class="dropdown-wrapper">
@@ -608,18 +600,9 @@
         <div class="heading">
             <h2>Veille technologique</h2>
             <div class="contentBx">
-                <p>La veille technologique consiste à se tenir informé des évolutions techniques et des innovations
-                    dans un secteur d’activité donné. Cela comprend notamment la surveillance, la collecte, le
-                    partage et la diffusion d’information permettant d’anticiper ou d'avoir connaissance des
-                    changements en matière de recherche, développement, brevet, lancement de nouveaux produits,
-                    matériaux, processus, concepts, innovation de fabrication, etc….</p>
-                <p>Aujourd’hui, la sécurité est un enjeu majeur pour
-                    les entreprises ainsi que pour l’ensemble des acteurs qui l’entourent. Aussi j'ai choisi d'axer ma
-                    veille sur le thème de la cybersécurité. </p>
-                <p>Pour réaliser cette veille, j'utilise l'aggrégateur de flux RSS Feedly pour visualiser des
-                    articles autour de différents thèmes (cybersécurité, développement...), puis je sélectionne les
-                    articles pertinents, les trie, et les enregistre grâce à l'outil Pearltrees, visible ci-dessous
-                    : </p>
+                <p>La veille technologique consiste à se tenir informé des évolutions techniques et des innovations dans un secteur d’activité donné. Cela comprend notamment la surveillance, la collecte, le partage et la diffusion d’information permettant d’anticiper ou d'avoir connaissance des changements en matière de recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts, innovation de fabrication, etc….</p>
+                <p>Aujourd’hui, la sécurité est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des acteurs qui l’entourent. Aussi j'ai choisi d'axer ma veille sur le thème de la cybersécurité. </p>
+                <p>Pour réaliser cette veille, j'utilise l'aggrégateur de flux RSS Feedly pour visualiser des articles autour de différents thèmes (cybersécurité, développement...), puis je sélectionne les articles pertinents, les trie, et les enregistre grâce à l'outil Pearltrees, visible ci-dessous </p>
             </div>
         </div>
         <div class="content">

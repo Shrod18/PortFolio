@@ -13,7 +13,8 @@ function parseFlux($feed) {
         $title = (string) $item->title; // Title
         $link = (string) $item->link; // Url Link
         $description = (string) $item->description; //Description
-        $rss_split[] = '<div class="bloc-title-link">&raquo; <a href="' . $link . '" target="_blank" title="" >' . $title . '</a><hr></div>';
+        $pubDate = (string) $item->pubDate;
+        $rss_split[] = '<div class="bloc-title-link"><p>&raquo; <a href="' . $link . '" target="_blank" title="" >' . $title . '<br></a>' . $description . '<br><div class="datepub">' . $pubDate . '</div></p></div>';
     }
 
     return $rss_split;
@@ -32,7 +33,7 @@ function displayFlux($rss_split, $numrows, $head) {
 		           </div>
 		         <div class="bloc-title">';
         while ($i < $numrows) {
-            $rss_data .= $rss_split[$i];
+            $rss_data .= ($i > 0 ? '<hr>' : ''). $rss_split[$i];
             $i++;
         }
 
