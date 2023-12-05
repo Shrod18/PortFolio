@@ -240,7 +240,7 @@
                             <h4>Missions</h4>
                             <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs d'une centaines de postes.</p>
                             <ul>
-                                <li>Utiliser un exécutable ainsi qu'un fichier d'installation .msi pour déployer ce service.</li>
+                                <li>Utiliser un exécutable .exe ainsi qu'un fichier d'installation .msi pour déployer ce service.</li>
                                 <li>Utiliser le packages.xml WPKG, un programme automatisé de déploiement, de mise à niveau et de suppression de logiciels pour Windows. En d'autres mots, c'est une liste de tous les paquets et scripts pouvant être déployés ou exécuter sur les stations de travail.</li>
                             </ul>
                         </div>
