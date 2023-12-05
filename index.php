@@ -624,13 +624,9 @@
         </div>
         <div class="content">
             <?php
-            include_once('application/rss.php');
-            $feedlist = parseFlux('https://news.mit.edu/rss/topic/artificial-intelligence2');
-            //$feedlist = parseFlux('https://openai.com/blog/rss.xml');
-            echo displayFlux($feedlist, 5, "L'avancée de l'Intelligence Artificielle");
-            // https://www.androidauthority.com/android-development/feed/
-            $feedlist = parseFlux('https://www.01net.com/tests/feed/');
-            echo displayFlux($feedlist, 10, "Android");
+                include_once('application/rss.php');
+                $feedlist = parseFlux('https://news.mit.edu/rss/topic/artificial-intelligence2');
+                echo displayFlux($feedlist, 5, "L'avancée de l'Intelligence Artificielle");
             ?> 
 
         </div>

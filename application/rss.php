@@ -13,8 +13,7 @@ function parseFlux($feed) {
         $title = (string) $item->title; // Title
         $link = (string) $item->link; // Url Link
         $description = (string) $item->description; //Description
-        $rss_split[] = '<div class="bloc-title-link">&raquo; <a href="' . $link . '" target="_blank" title="" >' . $title . '</a><hr></div>
-			';
+        $rss_split[] = '<div class="bloc-title-link">&raquo; <a href="' . $link . '" target="_blank" title="" >' . $title . '</a><hr></div>';
     }
 
     return $rss_split;
