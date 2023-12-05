@@ -540,15 +540,18 @@
                             <div class="missions">
                                 <h4>Missions</h4>
                                 <ul>
-                                    <li>Maintenir l’inventaire des équipements informatiques.Ceci permettra d’éviter les oublis
+                                    <li>Maintenir l’inventaire des équipements informatiques.Ceci permettra d’éviter les
+                                        oublis
                                         et les pertes et de réduire les vols.
                                     </li>
                                     <li>Réaliser la gestion administrative du parc informatique. Il s’agit
                                         principalement de gérer les garanties et les contrats de maintenance.
                                     </li>
                                     <li>Assurer la continuité du service. Vous devez vous assurer que tout matériel
-                                        arrivant dans l’entreprise est correctement réceptionné et enregistré dans la base. Vous allez
-                                        également devoir gérer les remplacements et gérer les stocks de consommables afin qu’il n’y ait jamais de
+                                        arrivant dans l’entreprise est correctement réceptionné et enregistré dans la
+                                        base. Vous allez
+                                        également devoir gérer les remplacements et gérer les stocks de consommables
+                                        afin qu’il n’y ait jamais de
                                         pénurie</li>
                                     <li>Suivre l’évolution financière du matériel. </li>
                                 </ul>
@@ -587,24 +590,31 @@
                     <button class="acc-btn">TC5_Dev : Choco&co</button>
                     <div class="acc-content">
                         <p>
-
-
+                            M. Lepoulain, directeur de la chocolaterie artisanale Choco & Co vend des œufs, des poules et des
+                            lapins qui sont les objets chocolatés qui ont le plus de succès, mais il vend aussi toutes sortes d’objets ou
+                            d’animaux en chocolat. M. Lepoulain décide de lancer une campagne de promotion spéciale sur le web
+                            intitulée « Joyeuses Pâques avec Choco & Co !».
+                            Dans le cadre de cette campagne, une sélection de produits Choco & Co seront proposée à la
+                            vente à prix réduits sur un site Internet construit pour l’occasion (chocopaques.fr).
+                            M. Lepoulain fait appel à l’entreprise CoolWebDesign pour réaliser le site web.
+                            Un formulaire web permettant aux visiteurs du site de commander les chocolats et de payer en
+                            ligne a été créé par l’un de vos collègues.
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
                                 <h4>Missions</h4>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Récupérer les données de ce formulaire de commande et créer une page web
+                                        affichant le récapitulatif de la commande d’un client. </li>
+                                    <li>Cette page permettra au
+                                        client de vérifier sa commande avant de passer au règlement. Le travail sera
+                                        réalisé en PHP.</li>
                                 </ul>
                             </div>
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
-                                    <li></li>
+                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                                     <li></li>
                                     <li></li>
                                     <li></li>
@@ -616,17 +626,18 @@
                         <div class="dropdown">
                             <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                             <div class="dropdown-content">
-                                <a href="assets\docs\Choco&co\TP2 - traiter les données d'un formulaire avec PHP.pdf" target="_blank">
+                                <a href="assets\docs\Choco&co\TP2 - traiter les données d'un formulaire avec PHP.pdf"
+                                    target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Mission
                                 </a>
                                 <a href="assets\docs\Choco&co\index.html" target="_blank">
-                                    <i class="far fa-file-pdf-o"></i>                                    
+                                    <i class="far fa-file-pdf-o"></i>
                                     Site Choco&co
                                 </a>
                                 <a href="assets\docs\Choco&co\recap.txt" target="_blank">
-                                    <i class="far fa-file-pdf-o"></i>                                    
-                                    Code du recap.php
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Code recap.php
                                 </a>
                             </div>
                         </div>
