@@ -339,8 +339,9 @@
                     <button class="acc-btn">AP2 - Netto</button>
                     <div class="acc-content">
                         <p><u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
-                            La société Intermarché vous demande d'établir des devis relatifs à l'évolution de leur parc
-                            informatique.
+                            Intermarché, enseigne française de grande distribution du groupe Les mousquetaires, a depuis
+                            quelques années élargi son domaine d'activités, en proposant à ses clients la possibilité de
+                            louer des véhicules (utilitaires ou véhicules de tourisme)
                             Madame B., directrice du magasin Netto d'Aubusson, constate une difficulté pour gérer les
                             opérations d'entretien de sa flotte de véhicules. Le magasin est doté d'une application
                             fournie par le groupe Intermarché, permettant de gérer ces locations de véhicules, mais
@@ -348,6 +349,12 @@
                             véhicules.
                             Mme B fait appel à une société de services Informatiques locale (Aubusson IT Services) pour
                             tenter de solutionner le problème
+                        </p>
+                        <p>
+                            <a href="https://github.com/Shrod18/Netto" target="_blank"
+                                onclick="window.open('https://github.com/Shrod18/Netto');">
+                                Liens GitHub du projet
+                            </a>
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
@@ -396,40 +403,56 @@
                     <button class="acc-btn">AP3 - KSAV</button>
                     <div class="acc-content">
                         <p><u>Ce projet s'inscrit dans le contexte suivant :</u><br><br>
-                        Le Groupe Salaün est une entreprise familiale spécialisée dans les métiers du tourisme. Il est notamment devenu l’un des plus importants Touropérateurs français avec plus de 500 collaborateurs et un réseau de plus de 160 points de vente en France et en Belgique. 
+                            Le Groupe Salaün est une entreprise familiale spécialisée dans les métiers du tourisme. Il
+                            est notamment devenu l’un des plus importants Touropérateurs français avec plus de 500
+                            collaborateurs et un réseau de plus de 160 points de vente en France et en Belgique.
                         </p>
-                        <p>Comme tout organisateur de voyage, l’entreprise est confrontée à la difficulté de mesurer le niveau de
-                        satisfaction des personnes qui lui ont fait confiance pour organiser leurs vacances.
-                        L'application envisagée, doit ainsi permettre la saisie, la modification et le suivi des retours clients par
-                        des fonctions de reporting simples. Cette application permettra d’homogénéiser le traitement et
-                        l’analyse de la satisfaction des clients qui ont voyagé avec SALAUN que ce soit avec une marque du
-                        Groupe ou avec d’autres Tour Opérateur. </p>
+                        <p>Comme tout organisateur de voyage, l’entreprise est confrontée à la difficulté de mesurer le
+                            niveau de
+                            satisfaction des personnes qui lui ont fait confiance pour organiser leurs vacances.
+                            L'application envisagée, doit ainsi permettre la saisie, la modification et le suivi des
+                            retours clients par
+                            des fonctions de reporting simples. Cette application permettra d’homogénéiser le traitement
+                            et
+                            l’analyse de la satisfaction des clients qui ont voyagé avec SALAUN que ce soit avec une
+                            marque du
+                            Groupe ou avec d’autres Tour Opérateur. </p>
+                        <p>
+                            <a href="https://github.com/Shrod18/KSAV2" target="_blank"
+                                onclick="window.open('https://github.com/Shrod18/KSAV2');">
+                                Liens GitHub du projet
+                            </a>
+                        </p>
                         <div class="missions-comp">
                             <div class="missions">
                                 <h4>Activité réalisée</h4>
                                 <ul>
-                                    <li></li>
+                                    <li>Plan & Maquettes</li>
+                                    <li>Dictionnaire des Données, Dépendances Fonctionnelles, MCD, MLD</li>
+                                    <li>Mise en place modèle MVC</li>
+                                    <li>CRUD Modèle Voyages, Instances Voyages, Clients, Avis</li>
+                                    <li>Création du filtre Login</li>
+                                    <li>Rapport</li>
                                 </ul>
-                                <p>
-                                    <a href="https://github.com/Shrod18/KSAV2" target="_blank"
-                                        onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                                        Liens GitHub du projet
-                                    </a>
-                                </p>
+                            </div>
+                            <div class="missions">
+                                <br><br><br>
+                                <ul>
+                                </ul>
                             </div>
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Collecter, suivre et orienter des demandes</li>
+                                    <li>Participer à l’évolution d’un site Web exploitant les données de
+                                        l’organisation.</li>
+                                    <li>Analyser les objectifs et les modalités d’organisation d’un projet</li>
+                                    <li>Développer son projet professionnel</li>
                                 </ul>
                             </div>
                         </div>
                         <p>
                         <div class="dropdown">
-
                             <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                             <div class="dropdown-content">
                                 <a href="assets\docs\AP3_KSAV\SALAUN-AppliSAVagence-KSAV-Fiche Descriptive.pdf"
@@ -437,7 +460,7 @@
                                     <i class="far fa-file-pdf-o"></i>
                                     Cahier des charges
                                 </a>
-                                <a href="assets/docs/ap1/Devis.pdf" target="_blank">
+                                <a href="assets/docs/AP3_KSAV/BlandinBertrand_RapportKSAV2.pdf" target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport
                                 </a>
@@ -448,19 +471,22 @@
 
                     <button class="acc-btn">AP4 - </button>
                     <div class="acc-content">
+                        <p><u></u><br><br>
+
+                        </p>
+                        <p>
+                            <a href="https://github.com/" target="_blank" onclick="window.open('https://github.com/');">
+                                Liens GitHub du projet
+                            </a>
+                        </p>
                         <div class="missions-comp">
                             <div class="missions">
                                 <h4>Activité réalisée</h4>
                                 <ul>
-                                    <p>Ce projet s'inscrit dans le contexte suivant :</p>
-                                    <li>La société Salaün Voyage. </li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
                                 </ul>
-                                <p>
-                                    <a href="https://github.com/Shrod18/KSAV2" target="_blank"
-                                        onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                                        Liens GitHub du projet
-                                    </a>
-                                </p>
                             </div>
                             <div class="comp">
                                 <h4>Compétences</h4>
@@ -481,7 +507,7 @@
                                     <i class="far fa-file-pdf-o"></i>
                                     Cahier des charges
                                 </a>
-                                <a href="assets/docs/ap1/Devis.pdf" target="_blank">
+                                <a href="assets/docs/AP3_KSAV/BlandinBertrand_RapportKSAV2.pdf" target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport
                                 </a>
@@ -526,46 +552,6 @@
                                     Mission GLPI
                                 </a>
                                 <a href="assets\docs\GLPI\BERTRANDPauline_MissionGLPI1.pdf" target="_blank">
-                                    <i class="far fa-file-pdf-o"></i>
-                                    Rapport
-                                </a>
-                            </div>
-                        </div>
-                        </p>
-                    </div>
-                    <button class="acc-btn">TC4_Réseau - Réplication de données GLPI</button>
-                    <div class="acc-content">
-                        <p>
-
-                        </p>
-                        <div class="missions-comp">
-                            <div class="missions">
-                                <h4>Missions</h4>
-                                <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                </ul>
-                            </div>
-                            <div class="comp">
-                                <h4>Compétences</h4>
-                                <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <p>
-                        <div class="dropdown">
-                            <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
-                            <div class="dropdown-content">
-                                <a href="assets\docs\Azure\Réplication MariaDB sur AZURE.pdf" target="_blank">
-                                    <i class="far fa-file-pdf-o"></i>
-                                    Mission Réplication des données GLPI
-                                </a>
-                                <a href="assets\docs\Azure\BERTRANDPauline_RapportReplicationDeDonneesGLPI.pdf"
-                                    target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport
                                 </a>

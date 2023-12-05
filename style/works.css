@@ -127,7 +127,7 @@ a#syntheseE4 {
 }
 
 .missions-comp .missions li {
-    max-width: 80%;
+    max-width: 100%;
 }
 
 .missions-comp .comp li{
@@ -136,7 +136,7 @@ a#syntheseE4 {
 
 .missions ul {    
     margin: auto;
-    max-width: 80%;
+    max-width: 100%;
 }
 
 .comp ul {
