@@ -517,23 +517,42 @@
                     </div>
                     <button class="acc-btn">TC4_Réseau : Mission GLPI</button>
                     <div class="acc-content">
-                        <p>
+                        <p>SAMSIC est une entreprise spécialisée dans le service aux entreprises. Elle intervient dans
+                            de
+                            nombreux domaines d’activités : Aéroportuaire, BTP, Commerce et distribution,
+                            hôtellerierestauration, industrie, etc
+                            M. Lebourg, le responsable SI de SAMSIC, a un gros problème. Il se rend bien compte que la
+                            gestion
+                            de son parc informatique est défaillante. Afin de régler le problème, M. Lebourg décide de
+                            mettre en place une solution de gestion du parc
+                            informatique basé sur le couple GLPI/fusionInventory. L’application a été récemment
+                            installée sur un
+                            serveur et remonte déjà des informations du parc existant.
+
 
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
                                 <h4>Missions</h4>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Maintenir l’inventaire des équipements informatiques.Ceci permettra d’éviter les oublis
+                                        et les pertes et de réduire les vols.
+                                    </li>
+                                    <li>Réaliser la gestion administrative du parc informatique. Il s’agit
+                                        principalement de gérer les garanties et les contrats de maintenance.
+                                    </li>
+                                    <li>Assurer la continuité du service. Vous devez vous assurer que tout matériel
+                                        arrivant dans l’entreprise est correctement réceptionné et enregistré dans la base. Vous allez
+                                        également devoir gérer les remplacements et gérer les stocks de consommables afin qu’il n’y ait jamais de
+                                        pénurie</li>
+                                    <li>Suivre l’évolution financière du matériel. </li>
                                 </ul>
                             </div>
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
                                     <li>Recenser et identifier les ressources numériques</li>
-                                    <li>▸Exploiter des référentiels, normes et standards adoptés par le prestataire
+                                    <li>Exploiter des référentiels, normes et standards adoptés par le prestataire
                                         informatique</li>
                                     <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service
                                     </li>
