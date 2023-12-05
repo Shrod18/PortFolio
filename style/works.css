@@ -161,3 +161,7 @@ a#syntheseE4 {
 .missions-comp > div {
     width: 50%;
 }
+
+.date {
+    font-size:small;        
+}

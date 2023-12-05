@@ -235,13 +235,19 @@
                         constructions et le calcul à sa plus juste valeur des frais de scolarité, de restauration et
                         d’internat.
                     </p>
+                    <p class="date"> Du 30/05/2023 au 30/06/2023.</p>
                     <div class="missions-comp">
                         <div class="missions">
                             <h4>Missions</h4>
-                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs d'une centaines de postes.</p>
+                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs
+                                d'une centaines de postes.</p>
                             <ul>
-                                <li>Utiliser un exécutable .exe ainsi qu'un fichier d'installation .msi pour déployer ce service.</li>
-                                <li>Utiliser le packages.xml WPKG, un programme automatisé de déploiement, de mise à niveau et de suppression de logiciels pour Windows. En d'autres mots, c'est une liste de tous les paquets et scripts pouvant être déployés ou exécuter sur les stations de travail.</li>
+                                <li>Utiliser un exécutable .exe ainsi qu'un fichier d'installation .msi pour déployer ce
+                                    service.</li>
+                                <li>Utiliser le packages.xml WPKG, un programme automatisé de déploiement, de mise à
+                                    niveau et de suppression de logiciels pour Windows. En d'autres mots, c'est une
+                                    liste de tous les paquets et scripts pouvant être déployés ou exécuter sur les
+                                    stations de travail.</li>
                             </ul>
                         </div>
                         <div class="comp">
@@ -275,21 +281,22 @@
                     <p>
                         description
                     </p>
+                    <p class="date"> Du 08/01/2024 au 16/02/2024</p>
                     <div class="missions-comp">
                         <div class="missions">
                             <h4>Missions</h4>
                             <ul>
-                                <li>1</li>
-                                <li>2</li>
-                                <li>3</li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
                             </ul>
                         </div>
                         <div class="comp">
                             <h4>Compétences</h4>
                             <ul>
-                                <li>1</li>
-                                <li>2</li>
-                                <li>3</li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
                             </ul>
                         </div>
                     </div>
@@ -297,17 +304,17 @@
                     <div class="dropdown">
                         <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                         <div class="dropdown-content">
-                            <a href="assets/docs/eastechnology/Trello EASTECHNOLOGY.png" target="_blank">
+                            <a href="/" target="_blank">
                                 <i class="fa fa-picture-o"></i>
-                                Capture d'écran Trello
+                                1
                             </a>
-                            <a href="assets/docs/eastechnology/screen_visionneuse3D.png" target="_blank">
+                            <a href="/" target="_blank">
                                 <i class="fa fa-picture-o"></i>
-                                Capture d'écran visionneuse 3D
+                                2
                             </a>
-                            <a href="assets/docs/eastechnology/screen_vectary.png" target="_blank">
+                            <a href="/" target="_blank">
                                 <i class="fa fa-picture-o"></i>
-                                Capture d'écran Vectary
+                                3
                             </a>
                         </div>
                     </div>
@@ -332,6 +339,7 @@
                             Mme B fait appel à une société de services Informatiques locale (Aubusson IT Services) pour
                             tenter de solutionner le problème
                         </p>
+                        <p class="date"> Du 07/03/2023 au 16/05/2023.</p>
                         <p>
                             <a href="https://github.com/Shrod18/Netto" target="_blank"
                                 onclick="window.open('https://github.com/Shrod18/Netto');">
@@ -404,11 +412,12 @@
                             l’analyse de la satisfaction des clients qui ont voyagé avec SALAUN que ce soit avec une
                             marque du
                             Groupe ou avec d’autres Tour Opérateur. </p>
+                        <p class="date"> Du 07/09/2023 au 14/12/2023.</p>
                         <p>
-                            <a href="https://github.com/Shrod18/KSAV2" target="_blank"
-                                onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                                Lien GitHub du projet
-                            </a>
+                        <a href="https://github.com/Shrod18/KSAV2" target="_blank"
+                            onclick="window.open('https://github.com/Shrod18/KSAV2');">
+                            Lien GitHub du projet
+                        </a>
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
@@ -510,9 +519,8 @@
                             informatique basé sur le couple GLPI/fusionInventory. L’application a été récemment
                             installée sur un
                             serveur et remonte déjà des informations du parc existant.
-
-
                         </p>
+                        <p class="date"> Du 02/02/2023 au 16/03/2023.</p>
                         <div class="missions-comp">
                             <div class="missions">
                                 <h4>Missions</h4>
@@ -580,6 +588,7 @@
                             Un formulaire web permettant aux visiteurs du site de commander les chocolats et de payer en
                             ligne a été créé par l’un de vos collègues.
                         </p>
+                        <p class="date"> Du 09/02/2023 au 07/04/2023.</p>
                         <div class="missions-comp">
                             <div class="missions">
                                 <h4>Missions</h4>
