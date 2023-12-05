@@ -99,7 +99,6 @@ a#syntheseE4 {
 .missions-comp {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
 }
 
 .missions-comp ul {
@@ -123,16 +122,37 @@ a#syntheseE4 {
     list-style-type: none;
 }
 
+.missions-comp .missions p {
+    max-width: 80%;
+}
+
 .missions-comp .missions li {
-    max-width: 700px;
+    max-width: 80%;
 }
 
 .missions-comp .comp li{
-    letter-spacing: 1.2px;
+    letter-spacing: 1.2px; 
+}
+
+.missions ul {    
+    margin: auto;
+    max-width: 80%;
+}
+
+.comp ul {
+    margin: auto;
+    max-width: 80%;
 }
 
 .missions-comp .missions li::before {
-    content: "-";
+    content: "▸";
+    position: absolute;
+    margin-left: 8px;
+    left: 0;
+}
+
+.missions-comp .comp li::before {
+    content: "▸";
     position: absolute;
     margin-left: 8px;
     left: 0;

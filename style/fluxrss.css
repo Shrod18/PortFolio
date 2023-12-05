@@ -1,4 +1,4 @@
-body {
+.bloc-title-link body {
     font-family: verdana;
     font-size: 12px;
 }
@@ -37,17 +37,17 @@ hr {
     border: 1px solid #e1e1e1;
 }
 
-a {
+.bloc-title-link a {
     color: #0175ae;
     text-decoration: none;
 }
 
-a:hover {
+.bloc-title-link a:hover {
     color: rgb(22, 82, 139);
     text-decoration: none;
 }
 
-p {
+.bloc-title-link p {
     color: #1e2b31;
     text-decoration: none;
 }

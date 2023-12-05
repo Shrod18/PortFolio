@@ -64,8 +64,8 @@
             <ul id="menu">
                 <li class="accueil active"><a href="#accueil" onclick="toggleMenu()">Accueil</a></li>
                 <li class="profil"><a href="#profil" onclick="toggleMenu()">Profil</a></li>
-                <li class="formationsXP"><a href="#formationsXP" onclick="toggleMenu()">Expériences</a></li>
-                <li class="xpPro"><a href="#xpPro" onclick="toggleMenu()">Réalisations</a></li>
+                <li class="formationsXP"><a href="#experiences" onclick="toggleMenu()">Expériences</a></li>
+                <li class="xpPro"><a href="#projets" onclick="toggleMenu()">Réalisations</a></li>
                 <li class="skills"><a href="#skills" onclick="toggleMenu()">Compétences</a></li>
                 <li class="veille"><a href="#veille" onclick="toggleMenu()">Veille</a></li>
                 <li class="contact"><a href="#contact" onclick="toggleMenu()">Contact</a></li>
@@ -94,21 +94,26 @@
                 <h3>A propos de moi</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Je m'appelle Pauline BERTRAND et je suis actuellement un BTS SIO option SLAM (Solutions Logicielles et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
+                    Je m'appelle Pauline BERTRAND et je suis actuellement un BTS SIO option SLAM (Solutions Logicielles
+                    et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
                 </p>
                 <h3>Parcours scolaire</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
+                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée
+                    Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
                 </p>
                 <h3>Parcours Professionnel</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    J'ai travailler à de nombreuses reprises en entreprise pendant les périodes de vacances scolaires. Ces 2 mois à l'entreprise Intersport ainsi que les 2 mois à l'entreprise Gémo m'ont permis d'observer la vie en entreprise et également de m'intégrer dans une équipe.
+                    J'ai travailler à de nombreuses reprises en entreprise pendant les périodes de vacances scolaires.
+                    Ces 2 mois à l'entreprise Intersport ainsi que les 2 mois à l'entreprise Gémo m'ont permis
+                    d'observer la vie en entreprise et également de m'intégrer dans une équipe.
                 </p>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Etant intéressées depuis de nombreuses années par l'informatique, je souhaite continuer mes études en Licence Professionnelle afin de me spécialiser.
+                    Etant intéressées depuis de nombreuses années par l'informatique, je souhaite continuer mes études
+                    en Licence Professionnelle afin de me spécialiser.
                 </p>
                 <h3>Mes qualités</h3>
                 <p>
@@ -116,7 +121,7 @@
                     - Autonome <br>
                     - Bon relationnel et adaptabilité <br>
                 </p>
-                
+
                 <div class="dropdown">
                     <figure class="heading">
                         <iframe class="center" src="./assets/docs/CV.pdf" allow="fullscreen" width="750" height="1000"
@@ -185,7 +190,10 @@
             <div class="contentBx">
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Au cours de ma préparation au BTS SIO option SLAM, j'ai réalisé plusieurs projets lors de stages en entreprise ou d'ateliers professionnels encadrés par l'équipe pédagogique de mon centre de formation. Ces réalisations en contexte professionnel ou pédagogique m'ont permis d'acquérir les blocs de compétences du réferentiel du BTS SIO.
+                    Au cours de ma préparation au BTS SIO option SLAM, j'ai réalisé plusieurs projets lors de stages en
+                    entreprise ou d'ateliers professionnels encadrés par l'équipe pédagogique de mon centre de
+                    formation. Ces réalisations en contexte professionnel ou pédagogique m'ont permis d'acquérir les
+                    blocs de compétences du réferentiel du BTS SIO.
                 </p>
             </div>
             <div class="dropdown-wrapper">
@@ -323,152 +331,168 @@
                     </div>
                     </p>
                 </div>
-
             </div>
-            <div class="contentBx">
-                <h3>Ateliers Professionnels</h3>
-
-                <button class="acc-btn">AP2 - Netto</button>
-                <div class="acc-content">
-                    <div class="missions-comp">
-                        <div class="missions">
-                            <h4>Activité réalisée</h4>
-                            <ul>
-                                <p>Ce projet s'inscrit dans le contexte suivant :</p>
-                                <li>La société Intermarché vous demande d'établir des devis relatifs à l'évolution de
-                                    leur parc informatique. </li>
-                            </ul>
-                        </div>
-                        <div class="comp">
-                            <h4>Compétences</h4>
-                            <ul>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <p>
-                    <div class="dropdown">
-
-                        <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
-                        <div class="dropdown-content">
-                            <a href="assets\docs\AP2_Netto\Contexte.pdf" target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Contexte
-                            </a>
-                            <a href="assets\docs\AP2_Netto\Projet Netto.pdf" target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Projet Netto
-                            </a>
-                            <a href="assets\docs\AP2_Netto\AP2_Rapport_Netto_SanchezBertrandChaouiLoirot.pdf"
-                                target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Rapport Netto
-                            </a>
-                        </div>
-                    </div>
-                    </p>
-                </div>
-
-                <button class="acc-btn">AP3 - KSAV</button>
-                <div class="acc-content">
-                    <div class="missions-comp">
-                        <div class="missions">
-                            <h4>Activité réalisée</h4>
-                            <ul>
-                                <p>Ce projet s'inscrit dans le contexte suivant :</p>
-                                <li>La société Salaün Voyage. </li>
-                            </ul>
-                            <p>
-                                <a href="https://github.com/Shrod18/KSAV2" target="_blank"
-                                    onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                                    Liens GitHub du projet
-                                </a>
-                            </p>
-                        </div>
-                        <div class="comp">
-                            <h4>Compétences</h4>
-                            <ul>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <p>
-                    <div class="dropdown">
-
-                        <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
-                        <div class="dropdown-content">
-                            <a href="assets\docs\AP3_KSAV\SALAUN-AppliSAVagence-KSAV-Fiche Descriptive.pdf"
-                                target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Cahier des charges
-                            </a>
-                            <a href="assets/docs/ap1/Devis.pdf" target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Rapport
-                            </a>
-                        </div>
-                    </div>
-                    </p>
-                </div>
-
-                <button class="acc-btn">AP4 - </button>
-                <div class="acc-content">
-                    <div class="missions-comp">
-                        <div class="missions">
-                            <h4>Activité réalisée</h4>
-                            <ul>
-                                <p>Ce projet s'inscrit dans le contexte suivant :</p>
-                                <li>La société Salaün Voyage. </li>
-                            </ul>
-                            <p>
-                                <a href="https://github.com/Shrod18/KSAV2" target="_blank"
-                                    onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                                    Liens GitHub du projet
-                                </a>
-                            </p>
-                        </div>
-                        <div class="comp">
-                            <h4>Compétences</h4>
-                            <ul>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <p>
-                    <div class="dropdown">
-                        <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
-                        <div class="dropdown-content">
-                            <a href="assets\docs\AP3_KSAV\SALAUN-AppliSAVagence-KSAV-Fiche Descriptive.pdf"
-                                target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Cahier des charges
-                            </a>
-                            <a href="assets/docs/ap1/Devis.pdf" target="_blank">
-                                <i class="far fa-file-pdf-o"></i>
-                                Rapport
-                            </a>
-                        </div>
-                    </div>
-                    </p>
-                </div>
-            </div>
-
             <div class="content">
                 <div class="contentBx">
                     <br><br>
                     <h3>Projets</h3>
+                    <button class="acc-btn">AP2 - Netto</button>
+                    <div class="acc-content">
+                        <p><u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
+                            La société Intermarché vous demande d'établir des devis relatifs à l'évolution de leur parc
+                            informatique.
+                            Madame B., directrice du magasin Netto d'Aubusson, constate une difficulté pour gérer les
+                            opérations d'entretien de sa flotte de véhicules. Le magasin est doté d'une application
+                            fournie par le groupe Intermarché, permettant de gérer ces locations de véhicules, mais
+                            cette application n'inclut pas de fonctionnalité permettant de gérer les entretiens des
+                            véhicules.
+                            Mme B fait appel à une société de services Informatiques locale (Aubusson IT Services) pour
+                            tenter de solutionner le problème
+                        </p>
+                        <div class="missions-comp">
+                            <div class="missions">
+                                <h4>Activités réalisées</h4>
+                                <ul>
+                                    <li>Plan et maquette du site</li>
+                                    <li>Pages Web</li>
+                                    <li>Dictionnaire de données, Dépendances fonctionnelles MCD, MLD</li>
+                                    <li>Site web fonctionnel</li>
+                                    <li>Rapport écrit</li>
+                                </ul>
+                            </div>
+                            <div class="comp">
+                                <h4>Compétences</h4>
+                                <ul>
+                                    <li>Participer à l’évolution d’un site Web exploitant les données de
+                                        l’organisation.</li>
+                                    <li>Analyser les objectifs et les modalités d’organisation d’un projet</li>
+                                    <li>Développer son projet professionnel</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p>
+                        <div class="dropdown">
+
+                            <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
+                            <div class="dropdown-content">
+                                <a href="assets\docs\AP2_Netto\Contexte.pdf" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Contexte
+                                </a>
+                                <a href="assets\docs\AP2_Netto\Projet Netto.pdf" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Projet Netto
+                                </a>
+                                <a href="assets\docs\AP2_Netto\AP2_Rapport_Netto_SanchezBertrandChaouiLoirot.pdf"
+                                    target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Rapport Netto
+                                </a>
+                            </div>
+                        </div>
+                        </p>
+                    </div>
+
+                    <button class="acc-btn">AP3 - KSAV</button>
+                    <div class="acc-content">
+                        <p><u>Ce projet s'inscrit dans le contexte suivant :</u><br><br>
+                        Le Groupe Salaün est une entreprise familiale spécialisée dans les métiers du tourisme. Il est notamment devenu l’un des plus importants Touropérateurs français avec plus de 500 collaborateurs et un réseau de plus de 160 points de vente en France et en Belgique. 
+                        </p>
+                        <p>Comme tout organisateur de voyage, l’entreprise est confrontée à la difficulté de mesurer le niveau de
+                        satisfaction des personnes qui lui ont fait confiance pour organiser leurs vacances.
+                        L'application envisagée, doit ainsi permettre la saisie, la modification et le suivi des retours clients par
+                        des fonctions de reporting simples. Cette application permettra d’homogénéiser le traitement et
+                        l’analyse de la satisfaction des clients qui ont voyagé avec SALAUN que ce soit avec une marque du
+                        Groupe ou avec d’autres Tour Opérateur. </p>
+                        <div class="missions-comp">
+                            <div class="missions">
+                                <h4>Activité réalisée</h4>
+                                <ul>
+                                    <li></li>
+                                </ul>
+                                <p>
+                                    <a href="https://github.com/Shrod18/KSAV2" target="_blank"
+                                        onclick="window.open('https://github.com/Shrod18/KSAV2');">
+                                        Liens GitHub du projet
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="comp">
+                                <h4>Compétences</h4>
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p>
+                        <div class="dropdown">
+
+                            <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
+                            <div class="dropdown-content">
+                                <a href="assets\docs\AP3_KSAV\SALAUN-AppliSAVagence-KSAV-Fiche Descriptive.pdf"
+                                    target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Cahier des charges
+                                </a>
+                                <a href="assets/docs/ap1/Devis.pdf" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Rapport
+                                </a>
+                            </div>
+                        </div>
+                        </p>
+                    </div>
+
+                    <button class="acc-btn">AP4 - </button>
+                    <div class="acc-content">
+                        <div class="missions-comp">
+                            <div class="missions">
+                                <h4>Activité réalisée</h4>
+                                <ul>
+                                    <p>Ce projet s'inscrit dans le contexte suivant :</p>
+                                    <li>La société Salaün Voyage. </li>
+                                </ul>
+                                <p>
+                                    <a href="https://github.com/Shrod18/KSAV2" target="_blank"
+                                        onclick="window.open('https://github.com/Shrod18/KSAV2');">
+                                        Liens GitHub du projet
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="comp">
+                                <h4>Compétences</h4>
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p>
+                        <div class="dropdown">
+                            <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
+                            <div class="dropdown-content">
+                                <a href="assets\docs\AP3_KSAV\SALAUN-AppliSAVagence-KSAV-Fiche Descriptive.pdf"
+                                    target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Cahier des charges
+                                </a>
+                                <a href="assets/docs/ap1/Devis.pdf" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Rapport
+                                </a>
+                            </div>
+                        </div>
+                        </p>
+                    </div>
                     <button class="acc-btn">TC4_Réseau : Mission GLPI</button>
                     <div class="acc-content">
                         <p>
-                            
+
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
@@ -482,9 +506,14 @@
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Recenser et identifier les ressources numériques</li>
+                                    <li>▸Exploiter des référentiels, normes et standards adoptés par le prestataire
+                                        informatique</li>
+                                    <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service
+                                    </li>
+                                    <li>Vérifier les conditions de la continuité d’un service informatique</li>
+                                    <li>Gérer des sauvegardes</li>
+                                    <li>Vérifier le respect des règles d’utilisation des ressources numériques</li>
                                 </ul>
                             </div>
                         </div>
@@ -498,7 +527,7 @@
                                 </a>
                                 <a href="assets\docs\GLPI\BERTRANDPauline_MissionGLPI1.pdf" target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
-                                    Rapport 
+                                    Rapport
                                 </a>
                             </div>
                         </div>
@@ -535,7 +564,8 @@
                                     <i class="far fa-file-pdf-o"></i>
                                     Mission Réplication des données GLPI
                                 </a>
-                                <a href="assets\docs\Azure\BERTRANDPauline_RapportReplicationDeDonneesGLPI.pdf" target="_blank">
+                                <a href="assets\docs\Azure\BERTRANDPauline_RapportReplicationDeDonneesGLPI.pdf"
+                                    target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport
                                 </a>
@@ -600,17 +630,24 @@
         <div class="heading">
             <h2>Veille technologique</h2>
             <div class="contentBx">
-                <p>La veille technologique consiste à se tenir informé des évolutions techniques et des innovations dans un secteur d’activité donné. Cela comprend notamment la surveillance, la collecte, le partage et la diffusion d’information permettant d’anticiper ou d'avoir connaissance des changements en matière de recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts, innovation de fabrication, etc….</p>
-                <p>Aujourd’hui, la sécurité est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des acteurs qui l’entourent. Aussi j'ai choisi d'axer ma veille sur le thème de la cybersécurité. </p>
-                <p>Pour réaliser cette veille, j'utilise l'aggrégateur de flux RSS Feedly pour visualiser des articles autour de différents thèmes (cybersécurité, développement...), puis je sélectionne les articles pertinents, les trie, et les enregistre grâce à l'outil Pearltrees, visible ci-dessous </p>
+                <p>La veille technologique consiste à se tenir informé des évolutions techniques et des innovations dans
+                    un secteur d’activité donné. Cela comprend notamment la surveillance, la collecte, le partage et la
+                    diffusion d’information permettant d’anticiper ou d'avoir connaissance des changements en matière de
+                    recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts,
+                    innovation de fabrication, etc….</p>
+                <p>Aujourd’hui, la sécurité est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des
+                    acteurs qui l’entourent. Aussi j'ai choisi d'axer ma veille sur le thème de la cybersécurité. </p>
+                <p>Pour réaliser cette veille, j'utilise l'aggrégateur de flux RSS Feedly pour visualiser des articles
+                    autour de différents thèmes (cybersécurité, développement...), puis je sélectionne les articles
+                    pertinents, les trie, et les enregistre grâce à l'outil Pearltrees, visible ci-dessous </p>
             </div>
         </div>
         <div class="content">
             <?php
-                include_once('application/rss.php');
-                $feedlist = parseFlux('https://news.mit.edu/rss/topic/artificial-intelligence2');
-                echo displayFlux($feedlist, 5, "L'avancée de l'Intelligence Artificielle");
-            ?> 
+            include_once('application/rss.php');
+            $feedlist = parseFlux('https://news.mit.edu/rss/topic/artificial-intelligence2');
+            echo displayFlux($feedlist, 5, "L'avancée de l'Intelligence Artificielle");
+            ?>
 
         </div>
     </section>
@@ -620,20 +657,20 @@
         <div class="contactInfo">
             <h3>Contact Info</h3>
             <div class="flexeur">
-            <div class="contactInfoBx">
-                <div class="box">
-                    <div class="icon adress"><i class="far fa-envelope"></i></div>
-                    <div class="text">
-                        <h3>Email</h3>
-                        <p>pauline.bertrand.461@gmail.com</p>
+                <div class="contactInfoBx">
+                    <div class="box">
+                        <div class="icon adress"><i class="far fa-envelope"></i></div>
+                        <div class="text">
+                            <h3>Email</h3>
+                            <p>pauline.bertrand.461@gmail.com</p>
+                        </div>
                     </div>
-                </div>
-                <div class="box">
-                    <div class="icon adress"><i class="fas fa-map-marker-alt"></i></div>
-                    <div class="text">
-                        <h3>Adresse</h3>
-                        <p>Pradines, 46090</p>
-                    </div>
+                    <div class="box">
+                        <div class="icon adress"><i class="fas fa-map-marker-alt"></i></div>
+                        <div class="text">
+                            <h3>Adresse</h3>
+                            <p>Pradines, 46090</p>
+                        </div>
                     </div>
                 </div>
             </div>
