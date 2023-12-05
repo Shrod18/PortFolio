@@ -353,7 +353,7 @@
                         <p>
                             <a href="https://github.com/Shrod18/Netto" target="_blank"
                                 onclick="window.open('https://github.com/Shrod18/Netto');">
-                                Liens GitHub du projet
+                                Lien GitHub du projet
                             </a>
                         </p>
                         <div class="missions-comp">
@@ -395,6 +395,11 @@
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport Netto
                                 </a>
+                                <!-- <a href="assets\docs\AP2_Netto\netto\php\pages\authentification.php"
+                                    target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Site Netto
+                                </a> -->
                             </div>
                         </div>
                         </p>
@@ -420,7 +425,7 @@
                         <p>
                             <a href="https://github.com/Shrod18/KSAV2" target="_blank"
                                 onclick="window.open('https://github.com/Shrod18/KSAV2');">
-                                Liens GitHub du projet
+                                Lien GitHub du projet
                             </a>
                         </p>
                         <div class="missions-comp">
@@ -476,7 +481,7 @@
                         </p>
                         <p>
                             <a href="https://github.com/" target="_blank" onclick="window.open('https://github.com/');">
-                                Liens GitHub du projet
+                                Lien GitHub du projet
                             </a>
                         </p>
                         <div class="missions-comp">
@@ -573,6 +578,55 @@
                                 <a href="assets\docs\GLPI\BERTRANDPauline_MissionGLPI1.pdf" target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport
+                                </a>
+                            </div>
+                        </div>
+                        </p>
+                    </div>
+
+                    <button class="acc-btn">TC5_Dev : Choco&co</button>
+                    <div class="acc-content">
+                        <p>
+
+
+                        </p>
+                        <div class="missions-comp">
+                            <div class="missions">
+                                <h4>Missions</h4>
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                            <div class="comp">
+                                <h4>Compétences</h4>
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p>
+                        <div class="dropdown">
+                            <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
+                            <div class="dropdown-content">
+                                <a href="assets\docs\Choco&co\TP2 - traiter les données d'un formulaire avec PHP.pdf" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Mission
+                                </a>
+                                <a href="assets\docs\Choco&co\index.html" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>                                    
+                                    Site Choco&co
+                                </a>
+                                <a href="assets\docs\Choco&co\recap.txt" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>                                    
+                                    Code du recap.php
                                 </a>
                             </div>
                         </div>
