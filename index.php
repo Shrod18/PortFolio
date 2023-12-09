@@ -241,8 +241,7 @@
                     <div class="missions-comp">
                         <div class="missions">
                             <h4>Missions</h4>
-                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs
-                                d'une centaines de postes.</p>
+                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs centaines de postes.</p>
                             <ul>
                                 <li>Utiliser un exécutable .exe ainsi qu'un fichier d'installation .msi pour déployer ce
                                     service.</li>
@@ -357,7 +356,7 @@
                                 <ul>
                                     <li>Plan et maquette du site</li>
                                     <li>Pages Web</li>
-                                    <li>Dictionnaire de données, Dépendances fonctionnelles MCD, MLD</li>
+                                    <li>Dictionnaire de données, Dépendances fonctionnelles, MCD, MLD</li>
                                     <li>Site web fonctionnel</li>
                                     <li>Rapport écrit</li>
                                 </ul>
@@ -428,7 +427,7 @@
                         </p>
                         <div class="missions-comp">
                             <div class="missions">
-                                <h4>Activité réalisée</h4>
+                                <h4>Activités réalisée</h4>
                                 <ul>
                                     <li>Plan & Maquettes</li>
                                     <li>Dictionnaire des Données, Dépendances Fonctionnelles, MCD, MLD</li>
@@ -536,19 +535,16 @@
                             <div class="missions">
                                 <h4>Missions</h4>
                                 <ul>
-                                    <li>Maintenir l’inventaire des équipements informatiques.Ceci permettra d’éviter les
-                                        oublis
-                                        et les pertes et de réduire les vols.
+                                    <li>Maintenir l’inventaire des équipements informatiques. Ceci permettra d’éviter les
+                                        oublis et les pertes et de réduire les vols.
                                     </li>
-                                    <li>Réaliser la gestion administrative du parc informatique. Il s’agit
-                                        principalement de gérer les garanties et les contrats de maintenance.
+                                    <li>Réaliser la gestion administrative du parc informatique. Il s’agit principalement de gérer les garanties et les contrats de maintenance.
                                     </li>
                                     <li>Assurer la continuité du service. Vous devez vous assurer que tout matériel
                                         arrivant dans l’entreprise est correctement réceptionné et enregistré dans la
                                         base. Vous allez
                                         également devoir gérer les remplacements et gérer les stocks de consommables
-                                        afin qu’il n’y ait jamais de
-                                        pénurie</li>
+                                        afin qu’il n’y ait jamais de pénurie. </li>
                                     <li>Suivre l’évolution financière du matériel. </li>
                                 </ul>
                             </div>
