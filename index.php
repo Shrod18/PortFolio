@@ -264,6 +264,10 @@
                     <div class="dropdown">
                         <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                         <div class="dropdown-content">
+                            <a href="assets\docs\Attestation de stage OGEC.pdf" target="_blank">
+                                <i class="far fa-file-pdf-o"></i>
+                                Attestation de stage
+                            </a>
                             <a href="assets\docs\Stage XML\tscc.xml" target="_blank">
                                 <i class="far fa-file-pdf-o"></i>
                                 Fichier .xml
