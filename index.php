@@ -95,12 +95,14 @@
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
                     Je m'appelle Pauline BERTRAND, j'ai 19 ans et je suis actuellement en BTS SIO (Service Informatique
-                    aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
+                    aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers) depuis 2 ans au lycée
+                    Claude Nougaro à Monteils, 82300.
                 </p>
                 <h3>Parcours scolaire</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
+                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée
+                    Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
                 </p>
                 <h3>Parcours Professionnel</h3>
                 <p>
@@ -123,8 +125,8 @@
 
                 <div class="dropdown">
                     <figure class="heading">
-                        <iframe class="center" src="./assets/docs/CV_Pauline_BERTRAND.pdf" allow="fullscreen" width="750" height="1000"
-                            frameborder="0"></iframe>
+                        <iframe class="center" src="./assets/docs/CV_Pauline_BERTRAND.pdf" allow="fullscreen"
+                            width="750" height="1000" frameborder="0"></iframe>
                     </figure>
                     <!-- <a href="./assets/docs/CV.pdf" id="syntheseE4" target="_blank">
                             <span>
@@ -283,22 +285,37 @@
                 <button class="acc-btn">Stage 2ème année - Pro à Pro - Janvier / Fevrier 2024</button>
                 <div class="acc-content">
                     <p>
-                        description
+                        L’entreprise Pro à Pro est un grossiste alimentaire à la fois pour la restauration collective et
+                        commerciale, et elle est implémentée sur 12 sites en France Métropolitaine.
+                        Lors de mon stage en tant que data scientist sous la tutelle de Pierre Simeoni, le manager du
+                        service DATA du DSI, j’ai travaillé sur l’outil Qlik Sense. Mon maître de stage m’a confié comme
+                        travail d’évoluer une application Qlik Sense nommée Commerce V2.
+
                     </p>
                     <p class="date"> Du 08/01/2024 au 16/02/2024</p>
                     <div class="missions-comp">
                         <div class="missions">
                             <h4>Missions</h4>
-                            <ul>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                            </ul>
+                            <ol>
+                                <li>Aquarelle</li>
+                                <ul>
+                                    <li>Créer l'application génératrice de QVD pour Aquarelle</li>
+                                </ul>
+                                <li>CommerceV2</li>
+                                <ul>
+                                    <li>Implementer les QVD Aquarelle</li>
+                                    <li>Score Card - Performance Commerciale</li>
+                                    <li>Switch Calendrier</li>
+                                    <li>Evolution de CommerceV2</li>
+                                </ul>
+                            </ol>
                         </div>
                         <div class="comp">
                             <h4>Compétences</h4>
                             <ul>
-                                <li></li>
+                                <li>Collecter, suivre et orienter des demandes</li>
+                                <li>Traiter des demandes concernant les applications</li>
+                                <li>Planifier les activités</li>
                                 <li></li>
                                 <li></li>
                             </ul>
@@ -308,17 +325,13 @@
                     <div class="dropdown">
                         <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                         <div class="dropdown-content">
-                            <a href="/" target="_blank">
-                                <i class="fa fa-picture-o"></i>
-                                1
+                            <a href="assets\docs\AttestationDeStageProAPro.pdf" target="_blank">
+                                <i class="far fa-file-pdf-o"></i>
+                                Attestation de stage
                             </a>
-                            <a href="/" target="_blank">
-                                <i class="fa fa-picture-o"></i>
-                                2
-                            </a>
-                            <a href="/" target="_blank">
-                                <i class="fa fa-picture-o"></i>
-                                3
+                            <a href="assets\docs\BERTRANDPauline_DocumentationStage.pdf" target="_blank">
+                                <i class="far fa-file-pdf-o"></i>
+                                Documentation de stage
                             </a>
                         </div>
                     </div>
@@ -411,7 +424,8 @@
                             est notamment devenu l’un des plus importants Touropérateurs français avec plus de 500
                             collaborateurs et un réseau de plus de 160 points de vente en France et en Belgique.
                         </p>
-                        <p> &nbsp;&nbsp;&nbsp;&nbsp;Comme tout organisateur de voyage, l’entreprise est confrontée à la difficulté de mesurer le
+                        <p> &nbsp;&nbsp;&nbsp;&nbsp;Comme tout organisateur de voyage, l’entreprise est confrontée à la
+                            difficulté de mesurer le
                             niveau de
                             satisfaction des personnes qui lui ont fait confiance pour organiser leurs vacances.
                             L'application envisagée, doit ainsi permettre la saisie, la modification et le suivi des
@@ -452,6 +466,7 @@
                                     <li>Participer à l’évolution d’un site Web exploitant les données de
                                         l’organisation.</li>
                                     <li>Analyser les objectifs et les modalités d’organisation d’un projet</li>
+                                    <li>Planifier les activités</li>
                                     <li>Développer son projet professionnel</li>
                                 </ul>
                             </div>
@@ -478,7 +493,8 @@
                     <div class="acc-content">
                         <p>
                             <u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
-                            &nbsp;&nbsp;&nbsp;&nbsp;Sous délégation du ministère de l’Agriculture et de la Souveraineté Alimentaire, la société
+                            &nbsp;&nbsp;&nbsp;&nbsp;Sous délégation du ministère de l’Agriculture et de la Souveraineté
+                            Alimentaire, la société
                             Ingenium
                             Animalis a pour mission de mettre en place la gestion en ligne du Fichier National
                             d'Identification des
@@ -489,7 +505,7 @@
                             déclarer un animal nouvellement pucé ou tatoué (l’identification est obligatoire en France
                             depuis
                             2012), mais aussi déclarer un animal trouvé, perdu, ou retrouvé.
-                        </p>                        
+                        </p>
                         <p class="date"> Du 26/02/2024 au 30/04/2024.</p>
                         <p>
                             <a href="https://github.com/Shrod18/ICAD" target="_blank"
@@ -509,10 +525,9 @@
                             <div class="comp">
                                 <h4>Compétences</h4>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Analyser les objectifs et les modalités d’organisation d’un projet</li>
+                                    <li>Planifier les activités</li>
+                                    <li>Développer son projet professionnel</li>
                                 </ul>
                             </div>
                         </div>
@@ -601,7 +616,7 @@
                         </p>
                     </div>
 
-                    <button class="acc-btn">TC5_Dev : Choco&co</button>
+                    <!-- <button class="acc-btn">TC5_Dev : Choco&co</button>
                     <div class="acc-content">
                         <p>
                             <u>Ce TP s'inscrit dans le contexte suivant :<br><br></u>
@@ -659,7 +674,7 @@
                             </div>
                         </div>
                         </p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
