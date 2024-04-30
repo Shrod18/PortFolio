@@ -316,8 +316,6 @@
                                 <li>Collecter, suivre et orienter des demandes</li>
                                 <li>Traiter des demandes concernant les applications</li>
                                 <li>Planifier les activités</li>
-                                <li></li>
-                                <li></li>
                             </ul>
                         </div>
                     </div>
@@ -535,14 +533,13 @@
                         <div class="dropdown">
                             <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                             <div class="dropdown-content">
-                                <a href="assets\docs\AP3_KSAV\SALAUN-AppliSAVagence-KSAV-Fiche Descriptive.pdf"
-                                    target="_blank">
-                                    <i class="far fa-file-pdf-o"></i>
-                                    Cahier des charges
-                                </a>
-                                <a href="assets/docs/AP3_KSAV/BlandinBertrand_RapportKSAV2.pdf" target="_blank">
+                                <a href="assets/docs/AP4_ICAD/RAPPORT_AP4.pdf" target="_blank">
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport
+                                </a>
+                                <a href="assets/docs/AP4_ICAD/ICAD.zip" target="_blank">
+                                    <i class="far fa-file-pdf-o"></i>
+                                    Fichier jar
                                 </a>
                             </div>
                         </div>
