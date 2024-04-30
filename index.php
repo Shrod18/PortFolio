@@ -94,15 +94,13 @@
                 <h3>A propos de moi</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Je m'appelle Pauline BERTRAND, j'ai 19 ans et je suis actuellement un BTS SIO option SLAM (Solutions
-                    Logicielles
-                    et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
+                    Je m'appelle Pauline BERTRAND, j'ai 19 ans et je suis actuellement en BTS SIO (Service Informatique
+                    aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers) depuis 2 ans au lycée Claude Nougaro à Monteils, 82300.
                 </p>
                 <h3>Parcours scolaire</h3>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée
-                    Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
+                    J'ai obtenu un Bac Général en 2022 comprenant les spécialités NSI et Arts Plastiques au lycée Clément Marot à Cahors, 46000. Ainsi que le brevet des collèges en 2019.
                 </p>
                 <h3>Parcours Professionnel</h3>
                 <p>
@@ -113,7 +111,7 @@
                 </p>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    Etant intéressées depuis de nombreuses années par l'informatique, je souhaite continuer mes études
+                    Etant intéressée depuis de nombreuses années par l'informatique, je souhaite continuer mes études
                     en Licence Professionnelle afin de me spécialiser.
                 </p>
                 <h3>Mes qualités</h3>
@@ -125,7 +123,7 @@
 
                 <div class="dropdown">
                     <figure class="heading">
-                        <iframe class="center" src="./assets/docs/CV.pdf" allow="fullscreen" width="750" height="1000"
+                        <iframe class="center" src="./assets/docs/CV_Pauline_BERTRAND.pdf" allow="fullscreen" width="750" height="1000"
                             frameborder="0"></iframe>
                     </figure>
                     <!-- <a href="./assets/docs/CV.pdf" id="syntheseE4" target="_blank">
@@ -150,7 +148,7 @@
                 <div class="card-body">
                     <h3 class="card-title">Janvier / Février 2024</h3>
                     <h3 class="card-subtitle">Stage 2ème année - Pro à Pro</h3>
-                    <p class="card-detail">Pro à Pro - Montauban, 82121</p>
+                    <p class="card-detail">Pro à Pro - Montauban, 82000</p>
                 </div>
             </div>
             <div class="card">
@@ -241,7 +239,8 @@
                     <div class="missions-comp">
                         <div class="missions">
                             <h4>Missions</h4>
-                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs centaines de postes.</p>
+                            <p>Créer un fichier .xml afin de déployer un service sur un parc informatique de plusieurs
+                                centaines de postes.</p>
                             <ul>
                                 <li>Utiliser un exécutable .exe ainsi qu'un fichier d'installation .msi pour déployer ce
                                     service.</li>
@@ -330,7 +329,7 @@
                 <div class="contentBx">
                     <br><br>
                     <h3>Projets</h3>
-                    <button class="acc-btn">AP2 - Netto</button>
+                    <!-- <button class="acc-btn">AP2 - Netto</button>
                     <div class="acc-content">
                         <p>
                             <u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
@@ -393,15 +392,15 @@
                                     <i class="far fa-file-pdf-o"></i>
                                     Rapport Netto
                                 </a>
-                                <!-- <a href="assets\docs\AP2_Netto\netto\php\pages\authentification.php"
-                                    target="_blank">
-                                    <i class="far fa-file-pdf-o"></i>
-                                    Site Netto
-                                </a> -->
+                                # <a href="assets\docs\AP2_Netto\netto\php\pages\authentification.php"
+                                #    target="_blank">
+                                #    <i class="far fa-file-pdf-o"></i>
+                                #    Site Netto
+                                #</a>
                             </div>
                         </div>
                         </p>
-                    </div>
+                    </div> -->
 
                     <button class="acc-btn">AP3 - KSAV</button>
                     <div class="acc-content">
@@ -412,7 +411,7 @@
                             est notamment devenu l’un des plus importants Touropérateurs français avec plus de 500
                             collaborateurs et un réseau de plus de 160 points de vente en France et en Belgique.
                         </p>
-                        <p>Comme tout organisateur de voyage, l’entreprise est confrontée à la difficulté de mesurer le
+                        <p> &nbsp;&nbsp;&nbsp;&nbsp;Comme tout organisateur de voyage, l’entreprise est confrontée à la difficulté de mesurer le
                             niveau de
                             satisfaction des personnes qui lui ont fait confiance pour organiser leurs vacances.
                             L'application envisagée, doit ainsi permettre la saisie, la modification et le suivi des
@@ -427,6 +426,11 @@
                             <a href="https://github.com/Shrod18/KSAV2" target="_blank"
                                 onclick="window.open('https://github.com/Shrod18/KSAV2');">
                                 Lien GitHub du projet
+                            </a>
+                        </p>
+                        <p>
+                            <a href="http://ksavpb.lan/" target="_blank" onclick="window.open('http://ksavpb.lan/');">
+                                Lien vers le site
                             </a>
                         </p>
                         <div class="missions-comp">
@@ -470,14 +474,26 @@
                         </p>
                     </div>
 
-                    <button class="acc-btn">AP4 - </button>
+                    <button class="acc-btn">AP4 - ICAD</button>
                     <div class="acc-content">
                         <p>
                             <u>Ce projet s'inscrit dans le contexte suivant :<br><br></u>
-
-                        </p>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Sous délégation du ministère de l’Agriculture et de la Souveraineté Alimentaire, la société
+                            Ingenium
+                            Animalis a pour mission de mettre en place la gestion en ligne du Fichier National
+                            d'Identification des
+                            Carnivores Domestiques en France (chiens et chats en majorité). Le Fichier National I-CAD
+                            est un outil
+                            de référence pour que tout particulier ou organisation (gendarmerie, refuge, fourrière, …)
+                            puisse
+                            déclarer un animal nouvellement pucé ou tatoué (l’identification est obligatoire en France
+                            depuis
+                            2012), mais aussi déclarer un animal trouvé, perdu, ou retrouvé.
+                        </p>                        
+                        <p class="date"> Du 26/02/2024 au 30/04/2024.</p>
                         <p>
-                            <a href="https://github.com/" target="_blank" onclick="window.open('https://github.com/');">
+                            <a href="https://github.com/Shrod18/ICAD" target="_blank"
+                                onclick="window.open('https://github.com/Shrod18/ICAD');">
                                 Lien GitHub du projet
                             </a>
                         </p>
@@ -485,9 +501,9 @@
                             <div class="missions">
                                 <h4>Activité réalisée</h4>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Plan & Maquettes</li>
+                                    <li>Création des écrans</li>
+                                    <li>Rendre l'application fonctionnelle</li>
                                 </ul>
                             </div>
                             <div class="comp">
@@ -539,10 +555,12 @@
                             <div class="missions">
                                 <h4>Missions</h4>
                                 <ul>
-                                    <li>Maintenir l’inventaire des équipements informatiques. Ceci permettra d’éviter les
+                                    <li>Maintenir l’inventaire des équipements informatiques. Ceci permettra d’éviter
+                                        les
                                         oublis et les pertes et de réduire les vols.
                                     </li>
-                                    <li>Réaliser la gestion administrative du parc informatique. Il s’agit principalement de gérer les garanties et les contrats de maintenance.
+                                    <li>Réaliser la gestion administrative du parc informatique. Il s’agit
+                                        principalement de gérer les garanties et les contrats de maintenance.
                                     </li>
                                     <li>Assurer la continuité du service. Vous devez vous assurer que tout matériel
                                         arrivant dans l’entreprise est correctement réceptionné et enregistré dans la
@@ -654,24 +672,16 @@
         </div>
         <div class="skills-container">
             <div class="skill-badge">
-                <img src="./assets/icons/skills/html5.svg" alt="Logo HTML5" class="skill-logo">
-                <h3 class="skill-name">HTML</h3>
+                <img src="./assets/icons/skills/java.svg" alt="Logo Java" class="skill-logo">
+                <h3 class="skill-name">Java</h3>
             </div>
             <div class="skill-badge">
-                <img src="./assets/icons/skills/css.svg" alt="Logo CSS3" class="skill-logo">
-                <h3 class="skill-name">CSS</h3>
+                <img src="./assets/icons/skills/php.png" alt="Logo PHP" class="skill-logo">
+                <h3 class="skill-name">PHP</h3>
             </div>
             <div class="skill-badge">
                 <img src="./assets/icons/skills/javascript.svg" alt="Logo JavaScript" class="skill-logo">
                 <h3 class="skill-name">JavaScript</h3>
-            </div>
-            <div class="skill-badge">
-                <img src="./assets/icons/skills/mysql.svg" alt="Logo MySQL" class="skill-logo">
-                <h3 class="skill-name">MySQL</h3>
-            </div>
-            <div class="skill-badge">
-                <img src="./assets/icons/skills/java.svg" alt="Logo Java" class="skill-logo">
-                <h3 class="skill-name">Java</h3>
             </div>
             <div class="skill-badge">
                 <img src="./assets/icons/skills/c.png" alt="Logo c#" class="skill-logo">
@@ -682,12 +692,40 @@
                 <h3 class="skill-name">Python</h3>
             </div>
             <div class="skill-badge">
-                <img src="./assets/icons/skills/php.png" alt="Logo PHP" class="skill-logo">
-                <h3 class="skill-name">PHP</h3>
+                <img src="./assets/icons/skills/html5.svg" alt="Logo HTML5" class="skill-logo">
+                <h3 class="skill-name">HTML</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/css.svg" alt="Logo CSS3" class="skill-logo">
+                <h3 class="skill-name">CSS</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/mysql.svg" alt="Logo MySQL" class="skill-logo">
+                <h3 class="skill-name">MySQL</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/mongodb.svg" alt="Logo HTML5" class="skill-logo">
+                <h3 class="skill-name">MongoDB</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/postgresql.svg" alt="Logo HTML5" class="skill-logo">
+                <h3 class="skill-name">PostgreSQL</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/codeigniter.svg" alt="Logo HTML5" class="skill-logo">
+                <h3 class="skill-name">CodeIgniter</h3>
             </div>
             <div class="skill-badge">
                 <img src="./assets/icons/skills/git.svg" alt="Logo Git" class="skill-logo">
                 <h3 class="skill-name">Git</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/wordpress.svg" alt="Logo HTML5" class="skill-logo">
+                <h3 class="skill-name">WordPress</h3>
+            </div>
+            <div class="skill-badge">
+                <img src="./assets/icons/skills/qlikview.svg" alt="Logo HTML5" class="skill-logo">
+                <h3 class="skill-name">Qlik Sense</h3>
             </div>
         </div>
     </section>
@@ -710,7 +748,7 @@
         </div>
         <div class="content">
             <?php
-            include_once('application/rss.php');
+            include_once ('application/rss.php');
             $feedlist = parseFlux('https://www.kdnuggets.com/feed');
             echo displayFlux($feedlist, 3, "L'IA dans KDNugget");
             $feedlist = parseFlux('https://blogs.nvidia.com/feed/');
