@@ -305,6 +305,7 @@
                                 <ul>
                                     <li>Implementer les QVD Aquarelle</li>
                                     <li>Score Card - Performance Commerciale</li>
+                                    <li>Ajout Vente Commande</li>
                                     <li>Switch Calendrier</li>
                                     <li>Evolution de CommerceV2</li>
                                 </ul>
@@ -323,11 +324,15 @@
                     <div class="dropdown">
                         <span class="dropdown-btn"><i class="fa fa-download"></i>Documents</span>
                         <div class="dropdown-content">
-                            <a href="assets\docs\AttestationDeStageProAPro.pdf" target="_blank">
+                            <a href="assets\docs\StageProAPro\BERTRANDPauline_AttestationStage.pdf" target="_blank">
+                                <i class="far fa-file-pdf-o"></i>
+                                - Attestation de stage
+                            </a>
+                            <a href="https://drive.google.com/file/d/1nsTdOpG59phlAVdwdmiwxekFKvp8mQVL/view?usp=sharing" target="_blank">
                                 <i class="far fa-file-pdf-o"></i>
                                 Attestation de stage
                             </a>
-                            <a href="assets\docs\BERTRANDPauline_DocumentationStage.pdf" target="_blank">
+                            <a href="assets\docs\StageProAPro\BERTRANDPauline_DocumentationStage.pdf" target="_blank">
                                 <i class="far fa-file-pdf-o"></i>
                                 Documentation de stage
                             </a>
