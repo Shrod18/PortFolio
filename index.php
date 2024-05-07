@@ -799,6 +799,7 @@
                         target="_blank" rel="noopener noreferrer"><i
                             class="gutentor-button-icon fas fa-cloud-download-alt"></i><span>Veille Technologique
                             (.PDF)</span></a></span>
+                            https://venthan-srisiva.fr/veille-technologique/
                 </div> -->
             </div>
         </div>
@@ -836,16 +837,51 @@
                 </div>
         </center>
         </div>
+        <section class="veille" id="veille">
+            <div class="content">
+                <div>
+                    <div>
+                        <center>
+                            <h2>Se protéger des attaques</h2>
+                        </center>
+                    </div>
+                    <br>
+                    <div>
+                        <div>
+                            <h3>Se protéger des cyberattaques : les 7
+                                piliers
+                                de la sagesse</h3>
+                            <p>Face aux risques cyber, les petites et
+                                moyennes
+                                entreprises ont intérêt &#8230;</p><a
+                                href="https://business.lesechos.fr/entrepreneurs/efficacite-personnelle/0602317764287-se-proteger-des-cyberattaques-les-7-piliers-de-la-sagesse-333500.php"><i></i><span>Lire
+                                    l&rsquo;article</span></a>
+                        </div>
+                        <div>
+                            <h3>Comment se protéger contre les
+                                cyberattaques ?</h3>
+                            <p>Les entreprises sont les plus grandes
+                                cibles
+                                des attaques informatiques &#8230;</p>
+                            <a
+                                href="https://www.undernews.fr/reseau-securite/comment-se-proteger-contre-les-cyberattaques%e2%80%89.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+undernews%2FoCmA+%28UnderNews%29"><i></i><span>Lire
+                                    l&rsquo;article</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </section>
 
     <!-- Contact -->
     <section class="contactForm" id="contact">
-        <div class="heading white">
+        <!-- <div class="heading white">
             <h2>Contactez-moi</h2>
-        </div>
+        </div> -->
         <div class="content">
             <div class="contactInfo">
-                <h3>Contact Info</h3>
+                <h3>Contactez-moi</h3>
                 <div class="contactInfoBx">
                     <div class="box">
                         <div class="icon adress"><i class="far fa-envelope"></i></div>
@@ -865,7 +901,7 @@
             </div>
 
             <!-- https://formsubmit.co -->
-            <div class="formBx">
+            <!-- <div class="formBx">
                 <form action="" method="POST">
                     <input type="hidden" name="_subject" value="Nouveau mail depuis le portfolio">
                     <input type="hidden" name="_template" value="table">
@@ -883,7 +919,7 @@
                     </label>
                     <input class="btn" type="submit" value="Envoyer">
                 </form>
-            </div>
+            </div> -->
         </div>
     </section>
 
