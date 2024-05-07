@@ -328,7 +328,8 @@
                                 <i class="far fa-file-pdf-o"></i>
                                 - Attestation de stage
                             </a>
-                            <a href="https://drive.google.com/file/d/1nsTdOpG59phlAVdwdmiwxekFKvp8mQVL/view?usp=sharing" target="_blank">
+                            <a href="https://drive.google.com/file/d/1nsTdOpG59phlAVdwdmiwxekFKvp8mQVL/view?usp=sharing"
+                                target="_blank">
                                 <i class="far fa-file-pdf-o"></i>
                                 Attestation de stage
                             </a>
@@ -750,7 +751,7 @@
 
 
     <!-- Veille technologique -->
-    <section class="veille" id="veille">
+    <!-- <section class="veille" id="veille">
         <div class="heading">
             <h2>Veille technologique</h2>
             <div class="contentBx">
@@ -772,6 +773,68 @@
             echo displayFlux($feedlist, 3, "Les intelligences artificielles dans NVIDIA");
             ?>
 
+        </div> -->
+
+    <section class="veille" id="veille">
+        <div class="heading">
+            <h2>Veille technologique</h2>
+            <div class="contentBx">
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;La veille technologique consiste à se tenir informé des évolutions
+                    techniques et des innovations dans
+                    un secteur d’activité donné. Cela comprend notamment la surveillance, la collecte, le partage et la
+                    diffusion d’information permettant d’anticiper ou d'avoir connaissance des changements en matière de
+                    recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts,
+                    innovation de fabrication, etc….</p>
+            </div>
+            <div class="contentBx">
+                <h2>Thème choisis pour la Veille</h2>
+                <p>Les « cyberguerres » ou « cyberattaques » (Cybersécurité).</p>
+                <p>Voir quels sont les méthodes et les moyens utilisés pour effectuer des attaques informatiques et
+                    leurs
+                    objectifs finals. Déterminer les conséquences qui peut y avoir sur différentes échelles (mondiales,
+                    entreprises, etc.).</p>
+                <!-- <div>
+                    <a href="https://venthan-srisiva.fr/wp-content/uploads/2021/05/Veille-Technologique.pdf"
+                        target="_blank" rel="noopener noreferrer"><i
+                            class="gutentor-button-icon fas fa-cloud-download-alt"></i><span>Veille Technologique
+                            (.PDF)</span></a></span>
+                </div> -->
+            </div>
+        </div>
+        <center>
+            <div class="contentBx">
+                <br>
+                <h1>Définitions</h1>
+                <h3>CyberSécurité</h3>
+                <p>Représente la protection des ressources, des données, des outils connectées ou installés. La
+                    cybersécurité
+                    regroupe l’ensemble des moyens utilisés (lois, dispositifs, gestion des risques, actions, etc..)
+                    pour
+                    assurer la défense d’un particulier (utilisateur lambda) ou d’une entreprise.</p>
+                <h3>CyberAttaque</h3>
+                <p>Attaques/actions qui vise le cyberspace ou des infrastructure, systèmes, etc., ayant un but
+                    malveillant.
+                    Ces
+                    actions sont volontaires et offensives. Elles peuvent être faites par des personnes seules ou des
+                    groupes de
+                    pirate ou biens d’organisation (état). L’objectif de ces attaques est des créer des dommages ou des
+                    perturbations sur les informations et les systèmes afin de voler des données ou nuire leurs
+                    utilisations.
+                </p>
+                <div>
+                    <h3>CyberGuerre</h3>
+                    <p> La cyberguerre est en quelques sorte un regroupement de cyberattaques (attaque dans le
+                        cyberspace)
+                        mais
+                        sur un niveau géopolitique (confrontations entre états, entre grande ou petites entreprises,
+                        etc..).
+                        Ces
+                        attaques ont principalement des buts politiques à différentes échelles (entreprises, état,
+                        continentale,
+                        mondiale).</p>
+                </div>
+        </center>
         </div>
     </section>
 
